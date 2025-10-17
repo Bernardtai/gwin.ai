@@ -162,7 +162,7 @@ export default function AboutPage() {
                   removing technical barriers and making it accessible to entrepreneurs worldwide.
                 </p>
                 <p className="text-lg text-muted-foreground mb-8">
-                  Through cutting-edge AI technology and blockchain integration, we're creating a 
+                  Through cutting-edge AI technology and blockchain integration, we&apos;re creating a 
                   future where anyone can launch a professional gambling platform in minutes, 
                   not months.
                 </p>

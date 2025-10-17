@@ -229,7 +229,7 @@ export default function DemoPage() {
                     </div>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-muted-foreground italic">"{testimonial.content}"</p>
+                    <p className="text-muted-foreground italic">&ldquo;{testimonial.content}&rdquo;</p>
                   </CardContent>
                 </Card>
               ))}

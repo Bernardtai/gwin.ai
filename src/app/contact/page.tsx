@@ -125,7 +125,7 @@ export default function ContactPage() {
                   Send us a message
                 </h2>
                 <p className="text-muted-foreground mb-8">
-                  Have a question or need help? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+                  Have a question or need help? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
                 </p>
                 
                 <form onSubmit={handleSubmit} className="space-y-6">
@@ -204,7 +204,7 @@ export default function ContactPage() {
                   Get in touch
                 </h2>
                 <p className="text-muted-foreground mb-8">
-                  We're here to help! Reach out to us through any of these channels.
+                  We&apos;re here to help! Reach out to us through any of these channels.
                 </p>
                 
                 <div className="space-y-6">
@@ -239,7 +239,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="text-lg font-semibold mb-1">Business Hours</h3>
-                      <p className="text-muted-foreground mb-2">We're available to help you</p>
+                      <p className="text-muted-foreground mb-2">We&apos;re available to help you</p>
                       <div className="text-sm">
                         <div>Monday - Friday: 9:00 AM - 6:00 PM PST</div>
                         <div>Saturday: 10:00 AM - 4:00 PM PST</div>
@@ -291,7 +291,7 @@ export default function ContactPage() {
               Ready to Get Started?
             </h2>
             <p className="text-xl text-muted-foreground mb-8">
-              Don't wait - start building your crypto gambling empire today!
+              Don&apos;t wait - start building your crypto gambling empire today!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-crypto-primary text-white hover:bg-crypto-primary/90">

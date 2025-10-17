@@ -89,10 +89,11 @@ const DropdownMenuContent = React.forwardRef<HTMLDivElement, DropdownMenuContent
     const { open } = React.useContext(DropdownMenuContext)
     const contentRef = React.useRef<HTMLDivElement>(null)
 
+    const { setOpen } = React.useContext(DropdownMenuContext)
+    
     React.useEffect(() => {
       const handleClickOutside = (event: MouseEvent) => {
         if (contentRef.current && !contentRef.current.contains(event.target as Node)) {
-          const { setOpen } = React.useContext(DropdownMenuContext)
           setOpen(false)
         }
       }

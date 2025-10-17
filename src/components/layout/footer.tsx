@@ -53,7 +53,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-muted-foreground mb-6 max-w-sm">
-              The world's first wallet-first, AI-powered platform for building professional crypto gambling sites. No coding required, no KYC needed.
+              The world&apos;s first wallet-first, AI-powered platform for building professional crypto gambling sites. No coding required, no KYC needed.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social) => (
