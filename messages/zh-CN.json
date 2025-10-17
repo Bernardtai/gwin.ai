@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "首页",
+    "builder": "AI构建器",
+    "services": "服务",
+    "demo": "演示",
+    "pricing": "定价",
+    "about": "关于",
+    "contact": "联系"
+  },
+  "common": {
+    "connectWallet": "连接钱包",
+    "theme": "主题",
+    "language": "语言"
+  }
+}

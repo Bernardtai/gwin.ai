@@ -1,0 +1,301 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Core theme colors */
+    --background: #ffffff;
+    --foreground: #262626;
+    --card: #ffffff;
+    --card-foreground: #262626;
+    --popover: #ffffff;
+    --popover-foreground: #262626;
+    --primary: #ffb624;
+    --primary-foreground: #000000;
+    --secondary: #f3f4f6;
+    --secondary-foreground: #4b5463;
+    --muted: #f9fafb;
+    --muted-foreground: #6b7180;
+    --accent: #fffceb;
+    --accent-foreground: #92440e;
+    --destructive: #ef4a44;
+    --destructive-foreground: #ffffff;
+    --border: #e5e7eb;
+    --input: #e5e7eb;
+    --ring: #f5a60b;
+    
+    /* Chart colors */
+    --chart-1: #f5a60b;
+    --chart-2: #d97e06;
+    --chart-3: #b45909;
+    --chart-4: #92440e;
+    --chart-5: #78390f;
+    
+    /* Sidebar colors */
+    --sidebar: #f9fafb;
+    --sidebar-foreground: #262626;
+    --sidebar-primary: #f5a60b;
+    --sidebar-primary-foreground: #ffffff;
+    --sidebar-accent: #fffceb;
+    --sidebar-accent-foreground: #92440e;
+    --sidebar-border: #e5e7eb;
+    --sidebar-ring: #f5a60b;
+    
+    /* Typography with comprehensive fallbacks */
+    --font-sans: var(--font-inter), "Inter", "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-serif: "Source Serif 4", "ui-serif", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+    --font-mono: var(--font-orbitron), "Orbitron", "ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
+    
+    /* Design tokens */
+    --radius: 1rem;
+    --tracking-normal: 0.025em;
+    --spacing: 0.25rem;
+    
+    /* Shadow system */
+    --shadow-2xs: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.04);
+    --shadow-xs: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.04);
+    --shadow-sm: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 1px 2px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 1px 2px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-md: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 2px 4px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-lg: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 4px 6px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-xl: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 8px 10px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-2xl: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.18);
+  }
+  
+  .dark {
+    /* Core theme colors - dark mode */
+    --background: #171717;
+    --foreground: #e5e5e5;
+    --card: #262626;
+    --card-foreground: #e5e5e5;
+    --popover: #262626;
+    --popover-foreground: #e5e5e5;
+    --primary: #f5a60b;
+    --primary-foreground: #000000;
+    --secondary: #262626;
+    --secondary-foreground: #e5e5e5;
+    --muted: #1f1f1f;
+    --muted-foreground: #a3a3a3;
+    --accent: #92440e;
+    --accent-foreground: #fdea8a;
+    --destructive: #ef4a44;
+    --destructive-foreground: #ffffff;
+    --border: #404040;
+    --input: #404040;
+    --ring: #f5a60b;
+    
+    /* Chart colors - dark mode */
+    --chart-1: #fbc624;
+    --chart-2: #d97e06;
+    --chart-3: #92440e;
+    --chart-4: #b45909;
+    --chart-5: #92440e;
+    
+    /* Sidebar colors - dark mode */
+    --sidebar: #0f0f0f;
+    --sidebar-foreground: #e5e5e5;
+    --sidebar-primary: #f5a60b;
+    --sidebar-primary-foreground: #ffffff;
+    --sidebar-accent: #92440e;
+    --sidebar-accent-foreground: #fdea8a;
+    --sidebar-border: #404040;
+    --sidebar-ring: #f5a60b;
+    
+    /* Typography remains the same */
+    --font-sans: var(--font-inter), "Inter", "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-serif: "Source Serif 4", "ui-serif", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+    --font-mono: var(--font-orbitron), "Orbitron", "ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
+    
+    /* Design tokens remain the same */
+    --radius: 1rem;
+    --tracking-normal: 0.025em;
+    --spacing: 0.25rem;
+    
+    /* Shadow system - dark mode */
+    --shadow-2xs: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.04);
+    --shadow-xs: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.04);
+    --shadow-sm: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 1px 2px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 1px 2px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-md: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 2px 4px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-lg: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 4px 6px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-xl: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.07), 0px 8px 10px -2px hsl(0 0% 10.1961% / 0.07);
+    --shadow-2xl: 0px 4px 8px -1px hsl(0 0% 10.1961% / 0.18);
+  }
+  
+  body {
+    letter-spacing: var(--tracking-normal);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  /* Ensure consistent box-sizing */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+}
+
+@layer components {
+  /* Responsive container */
+  .container-responsive {
+    @apply w-full mx-auto px-4 sm:px-6 lg:px-8;
+    max-width: 100%;
+  }
+  
+  /* Responsive grid system */
+  .grid-responsive {
+    @apply grid gap-4 sm:gap-6 lg:gap-8;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
+  
+  /* Responsive text utilities */
+  .text-responsive-xs { @apply text-xs sm:text-sm; }
+  .text-responsive-sm { @apply text-sm sm:text-base; }
+  .text-responsive-base { @apply text-base sm:text-lg; }
+  .text-responsive-lg { @apply text-lg sm:text-xl; }
+  .text-responsive-xl { @apply text-xl sm:text-2xl lg:text-3xl; }
+  .text-responsive-2xl { @apply text-2xl sm:text-3xl lg:text-4xl; }
+  .text-responsive-3xl { @apply text-3xl sm:text-4xl lg:text-5xl; }
+  .text-responsive-4xl { @apply text-4xl sm:text-5xl lg:text-6xl; }
+  
+  /* Responsive spacing */
+  .space-responsive { @apply space-y-4 sm:space-y-6 lg:space-y-8; }
+  .space-responsive-x { @apply space-x-4 sm:space-x-6 lg:space-x-8; }
+  
+  /* Responsive padding */
+  .p-responsive { @apply p-4 sm:p-6 lg:p-8; }
+  .px-responsive { @apply px-4 sm:px-6 lg:px-8; }
+  .py-responsive { @apply py-4 sm:py-6 lg:py-8; }
+  
+  /* Responsive margins */
+  .m-responsive { @apply m-4 sm:m-6 lg:m-8; }
+  .mx-responsive { @apply mx-4 sm:mx-6 lg:mx-8; }
+  .my-responsive { @apply my-4 sm:my-6 lg:my-8; }
+}
+
+@layer utilities {
+  /* Custom scrollbar */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: var(--muted-foreground) transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: var(--muted-foreground);
+    border-radius: 3px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background-color: var(--foreground);
+  }
+  
+  /* Crypto glow effects using theme colors */
+  .crypto-glow {
+    box-shadow: 0 0 20px rgba(245, 166, 11, 0.3);
+  }
+
+  .crypto-glow:hover {
+    box-shadow: 0 0 40px rgba(245, 166, 11, 0.6);
+  }
+  
+  /* Responsive visibility */
+  .mobile-only { @apply block sm:hidden; }
+  .desktop-only { @apply hidden sm:block; }
+  .tablet-up { @apply hidden md:block; }
+  .mobile-tablet { @apply block md:hidden; }
+  
+  /* Responsive flexbox */
+  .flex-responsive { @apply flex flex-col sm:flex-row; }
+  .flex-responsive-col { @apply flex flex-col; }
+  .flex-responsive-row { @apply flex flex-row; }
+  
+  /* Responsive grid */
+  .grid-responsive-1 { @apply grid grid-cols-1; }
+  .grid-responsive-2 { @apply grid grid-cols-1 sm:grid-cols-2; }
+  .grid-responsive-3 { @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3; }
+  .grid-responsive-4 { @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4; }
+  
+  /* Responsive width */
+  .w-responsive-full { @apply w-full; }
+  .w-responsive-auto { @apply w-auto; }
+  .w-responsive-fit { @apply w-fit; }
+  
+  /* Responsive height */
+  .h-responsive-screen { @apply h-screen; }
+  .h-responsive-auto { @apply h-auto; }
+  .h-responsive-fit { @apply h-fit; }
+  
+  /* Responsive positioning */
+  .relative-responsive { @apply relative; }
+  .absolute-responsive { @apply absolute; }
+  .fixed-responsive { @apply fixed; }
+  .sticky-responsive { @apply sticky; }
+  
+  /* Responsive overflow */
+  .overflow-responsive { @apply overflow-auto; }
+  .overflow-x-responsive { @apply overflow-x-auto; }
+  .overflow-y-responsive { @apply overflow-y-auto; }
+  
+  /* Responsive border radius */
+  .rounded-responsive { @apply rounded-lg sm:rounded-xl; }
+  .rounded-responsive-sm { @apply rounded sm:rounded-md; }
+  .rounded-responsive-lg { @apply rounded-xl sm:rounded-2xl; }
+  
+  /* Responsive shadows */
+  .shadow-responsive { @apply shadow-sm sm:shadow-md; }
+  .shadow-responsive-lg { @apply shadow-md sm:shadow-lg; }
+  .shadow-responsive-xl { @apply shadow-lg sm:shadow-xl; }
+  
+  /* 3D Card Flip Animation */
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+  
+  .transform-style-preserve-3d {
+    transform-style: preserve-3d;
+  }
+  
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+  
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  
+  /* Background blur effect for services page */
+  .services-background-blur {
+    filter: blur(4px);
+    transition: filter 0.3s ease-in-out;
+  }
+  
+  .services-background-normal {
+    filter: blur(0px);
+    transition: filter 0.3s ease-in-out;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "หน้าแรก",
+    "builder": "ตัวสร้าง AI",
+    "services": "บริการ",
+    "demo": "สาธิต",
+    "pricing": "ราคา",
+    "about": "เกี่ยวกับ",
+    "contact": "ติดต่อ"
+  },
+  "common": {
+    "connectWallet": "เชื่อมต่อกระเป๋า",
+    "theme": "ธีม",
+    "language": "ภาษา"
+  }
+}

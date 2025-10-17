@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "builder": "Trình tạo AI",
+    "services": "Dịch vụ",
+    "demo": "Demo",
+    "pricing": "Giá",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ"
+  },
+  "common": {
+    "connectWallet": "Kết nối ví",
+    "theme": "Chủ đề",
+    "language": "Ngôn ngữ"
+  }
+}

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate All Game Images</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #1a1a1a;
+            color: white;
+        }
+        .game-card {
+            display: inline-block;
+            margin: 10px;
+            width: 300px;
+            height: 200px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            overflow: hidden;
+        }
+        .game-icon {
+            width: 60px;
+            height: 60px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .game-name {
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+        .game-category {
+            font-size: 12px;
+            opacity: 0.8;
+        }
+        .download-btn {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .download-btn:hover {
+            background: #45a049;
+        }
+        .controls {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .controls button {
+            background: #2196F3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .controls button:hover {
+            background: #1976D2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Game Image Generator for All 114 Games</h1>
+    
+    <div class="controls">
+        <button onclick="generateAllImages()">Generate All Images</button>
+        <button onclick="downloadAllImages()">Download All Images</button>
+        <button onclick="clearCanvas()">Clear</button>
+    </div>
+    
+    <div id="gameContainer"></div>
+
+    <script>
+        // Load the games data
+        let gamesData = [];
+        
+        // Fetch games data
+        fetch('/assets/games.json')
+            .then(response => response.json())
+            .then(data => {
+                gamesData = data;
+                console.log(`Loaded ${gamesData.length} games`);
+                displayGames();
+            })
+            .catch(error => {
+                console.error('Error loading games:', error);
+                // Fallback to sample data
+                gamesData = [
+                    { id: 'dragon-treasure', name: 'Dragon Treasure', category: 'Slot Games' },
+                    { id: 'mega-fortune', name: 'Mega Fortune', category: 'Slot Games' }
+                ];
+                displayGames();
+            });
+
+        const colors = [
+            "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+            "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+            "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+            "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+            "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
+            "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
+            "linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%)",
+            "linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%)",
+            "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+        ];
+
+        const icons = {
+            'Slot Games': '🎰',
+            'Table Games': '🃏',
+            'Poker': '♠️',
+            'Sports': '⚽',
+            'Lottery': '🎫',
+            'Live Games': '🎲',
+            'Casino Games': '🎯'
+        };
+
+        function displayGames() {
+            const container = document.getElementById('gameContainer');
+            container.innerHTML = '';
+            
+            gamesData.forEach((game, index) => {
+                const gameCard = document.createElement('div');
+                gameCard.className = 'game-card';
+                gameCard.style.background = colors[index % colors.length];
+                gameCard.id = `game-${game.id}`;
+                
+                const icon = icons[game.category] || '🎮';
+                
+                gameCard.innerHTML = `
+                    <div class="game-icon">${icon}</div>
+                    <div class="game-name">${game.name}</div>
+                    <div class="game-category">${game.category}</div>
+                `;
+                
+                container.appendChild(gameCard);
+            });
+        }
+
+        function generateAllImages() {
+            gamesData.forEach((game, index) => {
+                setTimeout(() => {
+                    generateImage(game);
+                }, index * 100); // Stagger the generation
+            });
+        }
+
+        function generateImage(game) {
+            const gameElement = document.getElementById(`game-${game.id}`);
+            if (!gameElement) return;
+
+            // Create canvas
+            const canvas = document.createElement('canvas');
+            canvas.width = 300;
+            canvas.height = 200;
+            const ctx = canvas.getContext('2d');
+
+            // Get computed styles
+            const styles = window.getComputedStyle(gameElement);
+            const bg = styles.background;
+            
+            // Draw background
+            ctx.fillStyle = '#667eea';
+            ctx.fillRect(0, 0, 300, 200);
+
+            // Draw gradient background
+            const gradient = ctx.createLinearGradient(0, 0, 300, 200);
+            gradient.addColorStop(0, '#667eea');
+            gradient.addColorStop(1, '#764ba2');
+            ctx.fillStyle = gradient;
+            ctx.fillRect(0, 0, 300, 200);
+
+            // Draw icon circle
+            ctx.fillStyle = 'rgba(255,255,255,0.2)';
+            ctx.beginPath();
+            ctx.arc(150, 80, 30, 0, 2 * Math.PI);
+            ctx.fill();
+
+            // Draw icon
+            ctx.fillStyle = 'white';
+            ctx.font = '24px Arial';
+            ctx.textAlign = 'center';
+            ctx.fillText(icons[game.category] || '🎮', 150, 90);
+
+            // Draw game name
+            ctx.fillStyle = 'white';
+            ctx.font = 'bold 18px Arial';
+            ctx.fillText(game.name, 150, 130);
+
+            // Draw category
+            ctx.fillStyle = 'rgba(255,255,255,0.8)';
+            ctx.font = '12px Arial';
+            ctx.fillText(game.category, 150, 150);
+
+            // Store canvas for download
+            gameElement.dataset.canvas = canvas.toDataURL();
+            
+            console.log(`Generated image for ${game.name}`);
+        }
+
+        function downloadAllImages() {
+            gamesData.forEach((game, index) => {
+                setTimeout(() => {
+                    downloadImage(game);
+                }, index * 200); // Stagger the downloads
+            });
+        }
+
+        function downloadImage(game) {
+            const gameElement = document.getElementById(`game-${game.id}`);
+            if (!gameElement || !gameElement.dataset.canvas) return;
+
+            const link = document.createElement('a');
+            link.download = `${game.id}.jpg`;
+            link.href = gameElement.dataset.canvas;
+            link.click();
+            
+            // Also download icon version
+            setTimeout(() => {
+                const iconLink = document.createElement('a');
+                iconLink.download = `${game.id}_icon.png`;
+                iconLink.href = gameElement.dataset.canvas;
+                iconLink.click();
+            }, 100);
+        }
+
+        function clearCanvas() {
+            const container = document.getElementById('gameContainer');
+            container.innerHTML = '';
+            displayGames();
+        }
+    </script>
+</body>
+</html>

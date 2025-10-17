@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "Home",
+    "builder": "AI Builder",
+    "services": "Services",
+    "demo": "Demo",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "connectWallet": "Connect Wallet",
+    "theme": "Theme",
+    "language": "Language"
+  }
+}

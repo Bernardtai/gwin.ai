@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "首頁",
+    "builder": "AI構建器",
+    "services": "服務",
+    "demo": "演示",
+    "pricing": "定價",
+    "about": "關於",
+    "contact": "聯繫"
+  },
+  "common": {
+    "connectWallet": "連接錢包",
+    "theme": "主題",
+    "language": "語言"
+  }
+}

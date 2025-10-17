@@ -1,0 +1,5711 @@
+[
+  {
+    "id": "dragon-treasure",
+    "name": {
+      "en": "Dragon Treasure",
+      "zh-cn": "龙之宝藏",
+      "th": "สมบัติมังกร",
+      "vi": "Kho Báu Rồng"
+    },
+    "description": {
+      "en": "Epic dragon-themed slot with massive jackpots and bonus features",
+      "zh-cn": "史诗级龙主题老虎机，拥有巨额奖金和奖励功能",
+      "th": "สล็อตธีมมังกรที่ยิ่งใหญ่พร้อมแจ็คพอตและโบนัส",
+      "vi": "Slot chủ đề rồng hoành tráng với jackpot khổng lồ và tính năng thưởng"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "15.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5010.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5010_icon.webp",
+      "local_main": "/assets/images/games/5010.webp",
+      "local_icon": "/assets/images/games/5010.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/dragon-treasure",
+      "demo": "https://wg.com/demo/dragon-treasure"
+    },
+    "features": [
+      "Progressive Jackpot",
+      "Free Spins",
+      "Multiplier",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/dragon-treasure",
+    "imageMetadata": {
+      "id": "5010",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "dragon-1",
+    "name": {
+      "en": "Dragon 1",
+      "zh-cn": "Dragon 1",
+      "th": "Dragon 1",
+      "vi": "Dragon 1"
+    },
+    "description": {
+      "en": "Exciting dragon-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Dragon主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมDragonที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Dragon thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "14.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1001.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1001_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/dragon-1",
+      "demo": "https://wg.com/demo/dragon-1"
+    },
+    "features": [
+      "Wild Symbols",
+      "Live Dealers",
+      "Secure Gaming",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/dragon-1",
+    "imageMetadata": {
+      "id": "1001",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "fortune-2",
+    "name": {
+      "en": "Fortune 2",
+      "zh-cn": "Fortune 2",
+      "th": "Fortune 2",
+      "vi": "Fortune 2"
+    },
+    "description": {
+      "en": "Exciting fortune-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Fortune主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมFortuneที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Fortune thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "16.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1002.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1002_icon.webp",
+      "local_main": "/assets/images/games/1002.webp",
+      "local_icon": "/assets/images/games/1002.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/fortune-2",
+      "demo": "https://wg.com/demo/fortune-2"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Real-time Chat",
+      "Live Dealers",
+      "Tournament Mode"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/fortune-2",
+    "imageMetadata": {
+      "id": "1002",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "gold-3",
+    "name": {
+      "en": "Gold 3",
+      "zh-cn": "Gold 3",
+      "th": "Gold 3",
+      "vi": "Gold 3"
+    },
+    "description": {
+      "en": "Exciting gold-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Gold主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมGoldที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Gold thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "16.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1003.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1003_icon.webp",
+      "local_main": "/assets/images/games/1003.webp",
+      "local_icon": "/assets/images/games/1003.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/gold-3",
+      "demo": "https://wg.com/demo/gold-3"
+    },
+    "features": [
+      "Live Dealers",
+      "Tournament Mode",
+      "Multi-Player",
+      "Mobile Optimized"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/gold-3",
+    "imageMetadata": {
+      "id": "1003",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "diamond-4",
+    "name": {
+      "en": "Diamond 4",
+      "zh-cn": "Diamond 4",
+      "th": "Diamond 4",
+      "vi": "Diamond 4"
+    },
+    "description": {
+      "en": "Exciting diamond-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Diamond主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมDiamondที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Diamond thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "14.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1004.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1004_icon.webp",
+      "local_main": "/assets/images/games/1004.webp",
+      "local_icon": "/assets/images/games/1004.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/diamond-4",
+      "demo": "https://wg.com/demo/diamond-4"
+    },
+    "features": [
+      "Wild Symbols",
+      "Mobile Optimized",
+      "Bonus Rounds",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/diamond-4",
+    "imageMetadata": {
+      "id": "1004",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "treasure-5",
+    "name": {
+      "en": "Treasure 5",
+      "zh-cn": "Treasure 5",
+      "th": "Treasure 5",
+      "vi": "Treasure 5"
+    },
+    "description": {
+      "en": "Exciting treasure-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Treasure主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมTreasureที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Treasure thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "16.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1005.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/1005_icon.webp",
+      "local_main": "/assets/images/games/1005.webp",
+      "local_icon": "/assets/images/games/1005.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/treasure-5",
+      "demo": "https://wg.com/demo/treasure-5"
+    },
+    "features": [
+      "Multi-Player",
+      "Bonus Rounds",
+      "High Quality Graphics",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/treasure-5",
+    "imageMetadata": {
+      "id": "1005",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "magic-6",
+    "name": {
+      "en": "Magic 6",
+      "zh-cn": "Magic 6",
+      "th": "Magic 6",
+      "vi": "Magic 6"
+    },
+    "description": {
+      "en": "Exciting magic-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Magic主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมMagicที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Magic thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "18.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2001.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2001_icon.webp",
+      "local_main": "/assets/images/games/2001.webp",
+      "local_icon": "/assets/images/games/2001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/magic-6",
+      "demo": "https://wg.com/demo/magic-6"
+    },
+    "features": [
+      "Live Statistics",
+      "High Quality Graphics",
+      "Multi-Player",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/magic-6",
+    "imageMetadata": {
+      "id": "2001",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "mystic-7",
+    "name": {
+      "en": "Mystic 7",
+      "zh-cn": "Mystic 7",
+      "th": "Mystic 7",
+      "vi": "Mystic 7"
+    },
+    "description": {
+      "en": "Exciting mystic-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Mystic主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมMysticที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Mystic thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "10.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2002.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2002_icon.webp",
+      "local_main": "/assets/images/games/2002.webp",
+      "local_icon": "/assets/images/games/2002.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/mystic-7",
+      "demo": "https://wg.com/demo/mystic-7"
+    },
+    "features": [
+      "Multiplier",
+      "Scatter Symbols",
+      "Multi-Player",
+      "Wild Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/mystic-7",
+    "imageMetadata": {
+      "id": "2002",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "royal-8",
+    "name": {
+      "en": "Royal 8",
+      "zh-cn": "Royal 8",
+      "th": "Royal 8",
+      "vi": "Royal 8"
+    },
+    "description": {
+      "en": "Exciting royal-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Royal主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมRoyalที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Royal thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "19.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2003.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2003_icon.webp",
+      "local_main": "/assets/images/games/2003.webp",
+      "local_icon": "/assets/images/games/2003.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/royal-8",
+      "demo": "https://wg.com/demo/royal-8"
+    },
+    "features": [
+      "Real-time Chat",
+      "Multi-Player",
+      "Cash Out",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/royal-8",
+    "imageMetadata": {
+      "id": "2003",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "luxury-9",
+    "name": {
+      "en": "Luxury 9",
+      "zh-cn": "Luxury 9",
+      "th": "Luxury 9",
+      "vi": "Luxury 9"
+    },
+    "description": {
+      "en": "Exciting luxury-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Luxury主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมLuxuryที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Luxury thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "19.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2004.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2004_icon.webp",
+      "local_main": "/assets/images/games/2004.webp",
+      "local_icon": "/assets/images/games/2004.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/luxury-9",
+      "demo": "https://wg.com/demo/luxury-9"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Tournament Mode",
+      "Cash Out",
+      "Multi-Player"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/luxury-9",
+    "imageMetadata": {
+      "id": "2004",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "crystal-10",
+    "name": {
+      "en": "Crystal 10",
+      "zh-cn": "Crystal 10",
+      "th": "Crystal 10",
+      "vi": "Crystal 10"
+    },
+    "description": {
+      "en": "Exciting crystal-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Crystal主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมCrystalที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Crystal thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "13.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2005.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/2005_icon.webp",
+      "local_main": "/assets/images/games/2005.webp",
+      "local_icon": "/assets/images/games/2005.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/crystal-10",
+      "demo": "https://wg.com/demo/crystal-10"
+    },
+    "features": [
+      "Free Spins",
+      "Live Dealers",
+      "Scatter Symbols",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/crystal-10",
+    "imageMetadata": {
+      "id": "2005",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "phoenix-11",
+    "name": {
+      "en": "Phoenix 11",
+      "zh-cn": "Phoenix 11",
+      "th": "Phoenix 11",
+      "vi": "Phoenix 11"
+    },
+    "description": {
+      "en": "Exciting phoenix-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Phoenix主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมPhoenixที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Phoenix thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "20.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3001.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3001_icon.webp",
+      "local_main": "/assets/images/games/3001.webp",
+      "local_icon": "/assets/images/games/3001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/phoenix-11",
+      "demo": "https://wg.com/demo/phoenix-11"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Progressive Jackpot",
+      "Live Statistics",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/phoenix-11",
+    "imageMetadata": {
+      "id": "3001",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "jade-12",
+    "name": {
+      "en": "Jade 12",
+      "zh-cn": "Jade 12",
+      "th": "Jade 12",
+      "vi": "Jade 12"
+    },
+    "description": {
+      "en": "Exciting jade-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Jade主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมJadeที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Jade thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "19.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3002.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3002_icon.webp",
+      "local_main": "/assets/images/games/3002.webp",
+      "local_icon": "/assets/images/games/3002.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/jade-12",
+      "demo": "https://wg.com/demo/jade-12"
+    },
+    "features": [
+      "Multi-Player",
+      "Multiplier",
+      "Free Spins",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/jade-12",
+    "imageMetadata": {
+      "id": "3002",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "pearl-13",
+    "name": {
+      "en": "Pearl 13",
+      "zh-cn": "Pearl 13",
+      "th": "Pearl 13",
+      "vi": "Pearl 13"
+    },
+    "description": {
+      "en": "Exciting pearl-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Pearl主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมPearlที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Pearl thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "21.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3003.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3003_icon.webp",
+      "local_main": "/assets/images/games/3003.webp",
+      "local_icon": "/assets/images/games/3003.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/pearl-13",
+      "demo": "https://wg.com/demo/pearl-13"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Scatter Symbols",
+      "Tournament Mode",
+      "Multi-Player"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/pearl-13",
+    "imageMetadata": {
+      "id": "3003",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "ruby-14",
+    "name": {
+      "en": "Ruby 14",
+      "zh-cn": "Ruby 14",
+      "th": "Ruby 14",
+      "vi": "Ruby 14"
+    },
+    "description": {
+      "en": "Exciting ruby-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Ruby主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมRubyที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Ruby thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "11.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3004.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3004_icon.webp",
+      "local_main": "/assets/images/games/3004.webp",
+      "local_icon": "/assets/images/games/3004.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/ruby-14",
+      "demo": "https://wg.com/demo/ruby-14"
+    },
+    "features": [
+      "Live Statistics",
+      "High Quality Graphics",
+      "Wild Symbols",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/ruby-14",
+    "imageMetadata": {
+      "id": "3004",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "emerald-15",
+    "name": {
+      "en": "Emerald 15",
+      "zh-cn": "Emerald 15",
+      "th": "Emerald 15",
+      "vi": "Emerald 15"
+    },
+    "description": {
+      "en": "Exciting emerald-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Emerald主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมEmeraldที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Emerald thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "8.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3005.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/3005_icon.webp",
+      "local_main": "/assets/images/games/3005.webp",
+      "local_icon": "/assets/images/games/3005.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/emerald-15",
+      "demo": "https://wg.com/demo/emerald-15"
+    },
+    "features": [
+      "Progressive Jackpot",
+      "Multiplier",
+      "Auto Play",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/emerald-15",
+    "imageMetadata": {
+      "id": "3005",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "sapphire-16",
+    "name": {
+      "en": "Sapphire 16",
+      "zh-cn": "Sapphire 16",
+      "th": "Sapphire 16",
+      "vi": "Sapphire 16"
+    },
+    "description": {
+      "en": "Exciting sapphire-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Sapphire主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมSapphireที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Sapphire thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "19.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/4001.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/4001_icon.webp",
+      "local_main": "/assets/images/games/4001.webp",
+      "local_icon": "/assets/images/games/4001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/sapphire-16",
+      "demo": "https://wg.com/demo/sapphire-16"
+    },
+    "features": [
+      "Scatter Symbols",
+      "Auto Play",
+      "Multiplier",
+      "Multi-Player"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/sapphire-16",
+    "imageMetadata": {
+      "id": "4001",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "platinum-17",
+    "name": {
+      "en": "Platinum 17",
+      "zh-cn": "Platinum 17",
+      "th": "Platinum 17",
+      "vi": "Platinum 17"
+    },
+    "description": {
+      "en": "Exciting platinum-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Platinum主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมPlatinumที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Platinum thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "20.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/4002.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/4002_icon.webp",
+      "local_main": "/assets/images/games/4002.webp",
+      "local_icon": "/assets/images/games/4002.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/platinum-17",
+      "demo": "https://wg.com/demo/platinum-17"
+    },
+    "features": [
+      "Wild Symbols",
+      "Auto Play",
+      "Multi-Player",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/platinum-17",
+    "imageMetadata": {
+      "id": "4002",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "silver-18",
+    "name": {
+      "en": "Silver 18",
+      "zh-cn": "Silver 18",
+      "th": "Silver 18",
+      "vi": "Silver 18"
+    },
+    "description": {
+      "en": "Exciting silver-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Silver主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมSilverที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Silver thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/4004.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/4004_icon.webp",
+      "local_main": "/assets/images/games/4004.webp",
+      "local_icon": "/assets/images/games/4004.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/silver-18",
+      "demo": "https://wg.com/demo/silver-18"
+    },
+    "features": [
+      "Scatter Symbols",
+      "Live Dealers",
+      "High Quality Graphics",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/silver-18",
+    "imageMetadata": {
+      "id": "4004",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "bronze-19",
+    "name": {
+      "en": "Bronze 19",
+      "zh-cn": "Bronze 19",
+      "th": "Bronze 19",
+      "vi": "Bronze 19"
+    },
+    "description": {
+      "en": "Exciting bronze-themed slot game with amazing features and big wins",
+      "zh-cn": "令人兴奋的Bronze主题老虎机游戏，具有惊人的功能和巨额奖金",
+      "th": "เกมสล็อตธีมBronzeที่น่าตื่นเต้นพร้อมฟีเจอร์ที่น่าทึ่งและรางวัลใหญ่",
+      "vi": "Trò chơi slot chủ đề Bronze thú vị với các tính năng tuyệt vời và giải thưởng lớn"
+    },
+    "category": "Slot Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "10.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5001.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5001_icon.webp",
+      "local_main": "/assets/images/games/5001.webp",
+      "local_icon": "/assets/images/games/5001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/bronze-19",
+      "demo": "https://wg.com/demo/bronze-19"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Live Statistics",
+      "Wild Symbols",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/bronze-19",
+    "imageMetadata": {
+      "id": "5001",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "blackjack-1",
+    "name": {
+      "en": "Blackjack 1",
+      "zh-cn": "Blackjack 1",
+      "th": "Blackjack 1",
+      "vi": "Blackjack 1"
+    },
+    "description": {
+      "en": "Professional blackjack game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Blackjack游戏，配备真人荷官和高质量图形",
+      "th": "เกมBlackjackระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Blackjack chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "18.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5002.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5002_icon.webp",
+      "local_main": "/assets/images/games/5002.webp",
+      "local_icon": "/assets/images/games/5002.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/blackjack-1",
+      "demo": "https://wg.com/demo/blackjack-1"
+    },
+    "features": [
+      "Cash Out",
+      "Multiplier",
+      "Tournament Mode",
+      "Multi-Player"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/blackjack-1",
+    "imageMetadata": {
+      "id": "5002",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "roulette-2",
+    "name": {
+      "en": "Roulette 2",
+      "zh-cn": "Roulette 2",
+      "th": "Roulette 2",
+      "vi": "Roulette 2"
+    },
+    "description": {
+      "en": "Professional roulette game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Roulette游戏，配备真人荷官和高质量图形",
+      "th": "เกมRouletteระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Roulette chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5003.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5003_icon.webp",
+      "local_main": "/assets/images/games/5003.webp",
+      "local_icon": "/assets/images/games/5003.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/roulette-2",
+      "demo": "https://wg.com/demo/roulette-2"
+    },
+    "features": [
+      "Live Dealers",
+      "Multiplier",
+      "Progressive Jackpot",
+      "High Quality Graphics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/roulette-2",
+    "imageMetadata": {
+      "id": "5003",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "baccarat-3",
+    "name": {
+      "en": "Baccarat 3",
+      "zh-cn": "Baccarat 3",
+      "th": "Baccarat 3",
+      "vi": "Baccarat 3"
+    },
+    "description": {
+      "en": "Professional baccarat game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Baccarat游戏，配备真人荷官和高质量图形",
+      "th": "เกมBaccaratระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Baccarat chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "10.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5004.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5004_icon.webp",
+      "local_main": "/assets/images/games/5004.webp",
+      "local_icon": "/assets/images/games/5004.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/baccarat-3",
+      "demo": "https://wg.com/demo/baccarat-3"
+    },
+    "features": [
+      "Free Spins",
+      "Bonus Rounds",
+      "Cash Out",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/baccarat-3",
+    "imageMetadata": {
+      "id": "5004",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "poker-4",
+    "name": {
+      "en": "Poker 4",
+      "zh-cn": "Poker 4",
+      "th": "Poker 4",
+      "vi": "Poker 4"
+    },
+    "description": {
+      "en": "Professional poker game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Poker游戏，配备真人荷官和高质量图形",
+      "th": "เกมPokerระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Poker chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "25.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5005.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5005_icon.webp",
+      "local_main": "/assets/images/games/5005.webp",
+      "local_icon": "/assets/images/games/5005.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/poker-4",
+      "demo": "https://wg.com/demo/poker-4"
+    },
+    "features": [
+      "Secure Gaming",
+      "Live Dealers",
+      "Progressive Jackpot",
+      "High Quality Graphics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/poker-4",
+    "imageMetadata": {
+      "id": "5005",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "craps-5",
+    "name": {
+      "en": "Craps 5",
+      "zh-cn": "Craps 5",
+      "th": "Craps 5",
+      "vi": "Craps 5"
+    },
+    "description": {
+      "en": "Professional craps game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Craps游戏，配备真人荷官和高质量图形",
+      "th": "เกมCrapsระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Craps chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "18.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5006.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5006_icon.webp",
+      "local_main": "/assets/images/games/5006.webp",
+      "local_icon": "/assets/images/games/5006.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/craps-5",
+      "demo": "https://wg.com/demo/craps-5"
+    },
+    "features": [
+      "Multiplier",
+      "Tournament Mode",
+      "Secure Gaming",
+      "Mobile Optimized"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/craps-5",
+    "imageMetadata": {
+      "id": "5006",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "sic bo-6",
+    "name": {
+      "en": "Sic Bo 6",
+      "zh-cn": "Sic Bo 6",
+      "th": "Sic Bo 6",
+      "vi": "Sic Bo 6"
+    },
+    "description": {
+      "en": "Professional sic bo game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Sic Bo游戏，配备真人荷官和高质量图形",
+      "th": "เกมSic Boระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Sic Bo chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "8.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5007.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5007_icon.webp",
+      "local_main": "/assets/images/games/5007.webp",
+      "local_icon": "/assets/images/games/5007.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/sic bo-6",
+      "demo": "https://wg.com/demo/sic bo-6"
+    },
+    "features": [
+      "Live Dealers",
+      "Mobile Optimized",
+      "Real-time Chat",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/sic bo-6",
+    "imageMetadata": {
+      "id": "5007",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "dragon tiger-7",
+    "name": {
+      "en": "Dragon Tiger 7",
+      "zh-cn": "Dragon Tiger 7",
+      "th": "Dragon Tiger 7",
+      "vi": "Dragon Tiger 7"
+    },
+    "description": {
+      "en": "Professional dragon tiger game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Dragon Tiger游戏，配备真人荷官和高质量图形",
+      "th": "เกมDragon Tigerระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Dragon Tiger chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "10.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5008.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5008_icon.webp",
+      "local_main": "/assets/images/games/5008.webp",
+      "local_icon": "/assets/images/games/5008.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/dragon tiger-7",
+      "demo": "https://wg.com/demo/dragon tiger-7"
+    },
+    "features": [
+      "Secure Gaming",
+      "Progressive Jackpot",
+      "Live Statistics",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/dragon tiger-7",
+    "imageMetadata": {
+      "id": "5008",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "fan tan-8",
+    "name": {
+      "en": "Fan Tan 8",
+      "zh-cn": "Fan Tan 8",
+      "th": "Fan Tan 8",
+      "vi": "Fan Tan 8"
+    },
+    "description": {
+      "en": "Professional fan tan game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Fan Tan游戏，配备真人荷官和高质量图形",
+      "th": "เกมFan Tanระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Fan Tan chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "20.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5009.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5009_icon.webp",
+      "local_main": "/assets/images/games/5009.webp",
+      "local_icon": "/assets/images/games/5009.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/fan tan-8",
+      "demo": "https://wg.com/demo/fan tan-8"
+    },
+    "features": [
+      "Live Dealers",
+      "Secure Gaming",
+      "Scatter Symbols",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/fan tan-8",
+    "imageMetadata": {
+      "id": "5009",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "pai gow-9",
+    "name": {
+      "en": "Pai Gow 9",
+      "zh-cn": "Pai Gow 9",
+      "th": "Pai Gow 9",
+      "vi": "Pai Gow 9"
+    },
+    "description": {
+      "en": "Professional pai gow game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Pai Gow游戏，配备真人荷官和高质量图形",
+      "th": "เกมPai Gowระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Pai Gow chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "19.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5028.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5028_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/pai gow-9",
+      "demo": "https://wg.com/demo/pai gow-9"
+    },
+    "features": [
+      "Progressive Jackpot",
+      "Secure Gaming",
+      "Wild Symbols",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/pai gow-9",
+    "imageMetadata": {
+      "id": "5028",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "red dog-10",
+    "name": {
+      "en": "Red Dog 10",
+      "zh-cn": "Red Dog 10",
+      "th": "Red Dog 10",
+      "vi": "Red Dog 10"
+    },
+    "description": {
+      "en": "Professional red dog game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Red Dog游戏，配备真人荷官和高质量图形",
+      "th": "เกมRed Dogระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Red Dog chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "17.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5029.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5029_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/red dog-10",
+      "demo": "https://wg.com/demo/red dog-10"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Live Dealers",
+      "Tournament Mode",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/red dog-10",
+    "imageMetadata": {
+      "id": "5029",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "three card-11",
+    "name": {
+      "en": "Three Card 11",
+      "zh-cn": "Three Card 11",
+      "th": "Three Card 11",
+      "vi": "Three Card 11"
+    },
+    "description": {
+      "en": "Professional three card game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Three Card游戏，配备真人荷官和高质量图形",
+      "th": "เกมThree Cardระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Three Card chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "9.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5030.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5030_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/three card-11",
+      "demo": "https://wg.com/demo/three card-11"
+    },
+    "features": [
+      "Live Dealers",
+      "Multi-Player",
+      "Live Statistics",
+      "Wild Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/three card-11",
+    "imageMetadata": {
+      "id": "5030",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "caribbean-12",
+    "name": {
+      "en": "Caribbean 12",
+      "zh-cn": "Caribbean 12",
+      "th": "Caribbean 12",
+      "vi": "Caribbean 12"
+    },
+    "description": {
+      "en": "Professional caribbean game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Caribbean游戏，配备真人荷官和高质量图形",
+      "th": "เกมCaribbeanระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Caribbean chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "9.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5031.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5031_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/caribbean-12",
+      "demo": "https://wg.com/demo/caribbean-12"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Multi-Player",
+      "Free Spins",
+      "High Quality Graphics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/caribbean-12",
+    "imageMetadata": {
+      "id": "5031",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "let it ride-13",
+    "name": {
+      "en": "Let It Ride 13",
+      "zh-cn": "Let It Ride 13",
+      "th": "Let It Ride 13",
+      "vi": "Let It Ride 13"
+    },
+    "description": {
+      "en": "Professional let it ride game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Let It Ride游戏，配备真人荷官和高质量图形",
+      "th": "เกมLet It Rideระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Let It Ride chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "19.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5032.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5032_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/let it ride-13",
+      "demo": "https://wg.com/demo/let it ride-13"
+    },
+    "features": [
+      "Live Statistics",
+      "Multiplier",
+      "Real-time Chat",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/let it ride-13",
+    "imageMetadata": {
+      "id": "5032",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "casino war-14",
+    "name": {
+      "en": "Casino War 14",
+      "zh-cn": "Casino War 14",
+      "th": "Casino War 14",
+      "vi": "Casino War 14"
+    },
+    "description": {
+      "en": "Professional casino war game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Casino War游戏，配备真人荷官和高质量图形",
+      "th": "เกมCasino Warระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Casino War chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "18.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5033.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5033_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/casino war-14",
+      "demo": "https://wg.com/demo/casino war-14"
+    },
+    "features": [
+      "Live Statistics",
+      "Progressive Jackpot",
+      "Live Dealers",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/casino war-14",
+    "imageMetadata": {
+      "id": "5033",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "punto banco-15",
+    "name": {
+      "en": "Punto Banco 15",
+      "zh-cn": "Punto Banco 15",
+      "th": "Punto Banco 15",
+      "vi": "Punto Banco 15"
+    },
+    "description": {
+      "en": "Professional punto banco game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Punto Banco游戏，配备真人荷官和高质量图形",
+      "th": "เกมPunto Bancoระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Punto Banco chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "8.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5034.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5034_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/punto banco-15",
+      "demo": "https://wg.com/demo/punto banco-15"
+    },
+    "features": [
+      "Tournament Mode",
+      "Multiplier",
+      "Cash Out",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/punto banco-15",
+    "imageMetadata": {
+      "id": "5034",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "mini baccarat-16",
+    "name": {
+      "en": "Mini Baccarat 16",
+      "zh-cn": "Mini Baccarat 16",
+      "th": "Mini Baccarat 16",
+      "vi": "Mini Baccarat 16"
+    },
+    "description": {
+      "en": "Professional mini baccarat game with live dealers and high-quality graphics",
+      "zh-cn": "专业的Mini Baccarat游戏，配备真人荷官和高质量图形",
+      "th": "เกมMini Baccaratระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi Mini Baccarat chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "16.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5035.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5035_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/mini baccarat-16",
+      "demo": "https://wg.com/demo/mini baccarat-16"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Auto Play",
+      "Progressive Jackpot",
+      "Live Statistics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/mini baccarat-16",
+    "imageMetadata": {
+      "id": "5035",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "european-17",
+    "name": {
+      "en": "European 17",
+      "zh-cn": "European 17",
+      "th": "European 17",
+      "vi": "European 17"
+    },
+    "description": {
+      "en": "Professional european game with live dealers and high-quality graphics",
+      "zh-cn": "专业的European游戏，配备真人荷官和高质量图形",
+      "th": "เกมEuropeanระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi European chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "21.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5036.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5036_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/european-17",
+      "demo": "https://wg.com/demo/european-17"
+    },
+    "features": [
+      "Wild Symbols",
+      "Multi-Player",
+      "Secure Gaming",
+      "Tournament Mode"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/european-17",
+    "imageMetadata": {
+      "id": "5036",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "american-18",
+    "name": {
+      "en": "American 18",
+      "zh-cn": "American 18",
+      "th": "American 18",
+      "vi": "American 18"
+    },
+    "description": {
+      "en": "Professional american game with live dealers and high-quality graphics",
+      "zh-cn": "专业的American游戏，配备真人荷官和高质量图形",
+      "th": "เกมAmericanระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi American chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "20.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5037.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5037_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/american-18",
+      "demo": "https://wg.com/demo/american-18"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Free Spins",
+      "High Quality Graphics",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/american-18",
+    "imageMetadata": {
+      "id": "5037",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "french-19",
+    "name": {
+      "en": "French 19",
+      "zh-cn": "French 19",
+      "th": "French 19",
+      "vi": "French 19"
+    },
+    "description": {
+      "en": "Professional french game with live dealers and high-quality graphics",
+      "zh-cn": "专业的French游戏，配备真人荷官和高质量图形",
+      "th": "เกมFrenchระดับมืออาชีพพร้อมดีลเลอร์สดและกราฟิกคุณภาพสูง",
+      "vi": "Trò chơi French chuyên nghiệp với người chia bài trực tiếp và đồ họa chất lượng cao"
+    },
+    "category": "Table Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "17.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5038.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5038_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/french-19",
+      "demo": "https://wg.com/demo/french-19"
+    },
+    "features": [
+      "Secure Gaming",
+      "High Quality Graphics",
+      "Progressive Jackpot",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/french-19",
+    "imageMetadata": {
+      "id": "5038",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "texas hold'em-1",
+    "name": {
+      "en": "Texas Hold'em 1",
+      "zh-cn": "Texas Hold'em 1",
+      "th": "Texas Hold'em 1",
+      "vi": "Texas Hold'em 1"
+    },
+    "description": {
+      "en": "Advanced texas hold'em poker with tournaments and cash games",
+      "zh-cn": "高级Texas Hold'em扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Texas Hold'emขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Texas Hold'em nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5039.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5039_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/texas hold'em-1",
+      "demo": "https://wg.com/demo/texas hold'em-1"
+    },
+    "features": [
+      "Cash Out",
+      "Wild Symbols",
+      "Bonus Rounds",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/texas hold'em-1",
+    "imageMetadata": {
+      "id": "5039",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "omaha-2",
+    "name": {
+      "en": "Omaha 2",
+      "zh-cn": "Omaha 2",
+      "th": "Omaha 2",
+      "vi": "Omaha 2"
+    },
+    "description": {
+      "en": "Advanced omaha poker with tournaments and cash games",
+      "zh-cn": "高级Omaha扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Omahaขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Omaha nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "17.9 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5040.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5040_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/omaha-2",
+      "demo": "https://wg.com/demo/omaha-2"
+    },
+    "features": [
+      "Cash Out",
+      "Live Dealers",
+      "Multiplier",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/omaha-2",
+    "imageMetadata": {
+      "id": "5040",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "seven card-3",
+    "name": {
+      "en": "Seven Card 3",
+      "zh-cn": "Seven Card 3",
+      "th": "Seven Card 3",
+      "vi": "Seven Card 3"
+    },
+    "description": {
+      "en": "Advanced seven card poker with tournaments and cash games",
+      "zh-cn": "高级Seven Card扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Seven Cardขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Seven Card nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "18.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5041.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5041_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/seven card-3",
+      "demo": "https://wg.com/demo/seven card-3"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Scatter Symbols",
+      "High Quality Graphics",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/seven card-3",
+    "imageMetadata": {
+      "id": "5041",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "five card-4",
+    "name": {
+      "en": "Five Card 4",
+      "zh-cn": "Five Card 4",
+      "th": "Five Card 4",
+      "vi": "Five Card 4"
+    },
+    "description": {
+      "en": "Advanced five card poker with tournaments and cash games",
+      "zh-cn": "高级Five Card扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Five Cardขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Five Card nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "10.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5042.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5042_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/five card-4",
+      "demo": "https://wg.com/demo/five card-4"
+    },
+    "features": [
+      "Live Statistics",
+      "Multi-Player",
+      "Mobile Optimized",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/five card-4",
+    "imageMetadata": {
+      "id": "5042",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "razz-5",
+    "name": {
+      "en": "Razz 5",
+      "zh-cn": "Razz 5",
+      "th": "Razz 5",
+      "vi": "Razz 5"
+    },
+    "description": {
+      "en": "Advanced razz poker with tournaments and cash games",
+      "zh-cn": "高级Razz扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Razzขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Razz nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "22.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5043.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5043_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/razz-5",
+      "demo": "https://wg.com/demo/razz-5"
+    },
+    "features": [
+      "Live Dealers",
+      "High Quality Graphics",
+      "Live Statistics",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/razz-5",
+    "imageMetadata": {
+      "id": "5043",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "stud-6",
+    "name": {
+      "en": "Stud 6",
+      "zh-cn": "Stud 6",
+      "th": "Stud 6",
+      "vi": "Stud 6"
+    },
+    "description": {
+      "en": "Advanced stud poker with tournaments and cash games",
+      "zh-cn": "高级Stud扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Studขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Stud nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "17.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5044.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5044_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/stud-6",
+      "demo": "https://wg.com/demo/stud-6"
+    },
+    "features": [
+      "Live Dealers",
+      "Progressive Jackpot",
+      "Auto Play",
+      "Wild Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/stud-6",
+    "imageMetadata": {
+      "id": "5044",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "draw-7",
+    "name": {
+      "en": "Draw 7",
+      "zh-cn": "Draw 7",
+      "th": "Draw 7",
+      "vi": "Draw 7"
+    },
+    "description": {
+      "en": "Advanced draw poker with tournaments and cash games",
+      "zh-cn": "高级Draw扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Drawขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Draw nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "24.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5045.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5045_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/draw-7",
+      "demo": "https://wg.com/demo/draw-7"
+    },
+    "features": [
+      "Free Spins",
+      "Progressive Jackpot",
+      "Multi-Player",
+      "Live Statistics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/draw-7",
+    "imageMetadata": {
+      "id": "5045",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "high low-8",
+    "name": {
+      "en": "High Low 8",
+      "zh-cn": "High Low 8",
+      "th": "High Low 8",
+      "vi": "High Low 8"
+    },
+    "description": {
+      "en": "Advanced high low poker with tournaments and cash games",
+      "zh-cn": "高级High Low扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์High Lowขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker High Low nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "13.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5046.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5046_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/high low-8",
+      "demo": "https://wg.com/demo/high low-8"
+    },
+    "features": [
+      "Auto Play",
+      "Multiplier",
+      "Free Spins",
+      "Cash Out"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/high low-8",
+    "imageMetadata": {
+      "id": "5046",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "badugi-9",
+    "name": {
+      "en": "Badugi 9",
+      "zh-cn": "Badugi 9",
+      "th": "Badugi 9",
+      "vi": "Badugi 9"
+    },
+    "description": {
+      "en": "Advanced badugi poker with tournaments and cash games",
+      "zh-cn": "高级Badugi扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Badugiขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Badugi nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "24.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5047.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5047_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/badugi-9",
+      "demo": "https://wg.com/demo/badugi-9"
+    },
+    "features": [
+      "Multi-Player",
+      "Real-time Chat",
+      "High Quality Graphics",
+      "Tournament Mode"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/badugi-9",
+    "imageMetadata": {
+      "id": "5047",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "horse-10",
+    "name": {
+      "en": "HORSE 10",
+      "zh-cn": "HORSE 10",
+      "th": "HORSE 10",
+      "vi": "HORSE 10"
+    },
+    "description": {
+      "en": "Advanced horse poker with tournaments and cash games",
+      "zh-cn": "高级HORSE扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์HORSEขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker HORSE nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "23.9 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5048.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5048_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/horse-10",
+      "demo": "https://wg.com/demo/horse-10"
+    },
+    "features": [
+      "Auto Play",
+      "Live Statistics",
+      "Multi-Player",
+      "Wild Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/horse-10",
+    "imageMetadata": {
+      "id": "5048",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "mixed-11",
+    "name": {
+      "en": "Mixed 11",
+      "zh-cn": "Mixed 11",
+      "th": "Mixed 11",
+      "vi": "Mixed 11"
+    },
+    "description": {
+      "en": "Advanced mixed poker with tournaments and cash games",
+      "zh-cn": "高级Mixed扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Mixedขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Mixed nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "25.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5049.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5049_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/mixed-11",
+      "demo": "https://wg.com/demo/mixed-11"
+    },
+    "features": [
+      "Multi-Player",
+      "Mobile Optimized",
+      "Cash Out",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/mixed-11",
+    "imageMetadata": {
+      "id": "5049",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "tournament-12",
+    "name": {
+      "en": "Tournament 12",
+      "zh-cn": "Tournament 12",
+      "th": "Tournament 12",
+      "vi": "Tournament 12"
+    },
+    "description": {
+      "en": "Advanced tournament poker with tournaments and cash games",
+      "zh-cn": "高级Tournament扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Tournamentขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Tournament nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "24.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5050.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5050_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/tournament-12",
+      "demo": "https://wg.com/demo/tournament-12"
+    },
+    "features": [
+      "Free Spins",
+      "Auto Play",
+      "Multiplier",
+      "Mobile Optimized"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/tournament-12",
+    "imageMetadata": {
+      "id": "5050",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "cash game-13",
+    "name": {
+      "en": "Cash Game 13",
+      "zh-cn": "Cash Game 13",
+      "th": "Cash Game 13",
+      "vi": "Cash Game 13"
+    },
+    "description": {
+      "en": "Advanced cash game poker with tournaments and cash games",
+      "zh-cn": "高级Cash Game扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Cash Gameขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Cash Game nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "25.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5051.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5051_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/cash game-13",
+      "demo": "https://wg.com/demo/cash game-13"
+    },
+    "features": [
+      "Live Dealers",
+      "Secure Gaming",
+      "Bonus Rounds",
+      "Wild Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/cash game-13",
+    "imageMetadata": {
+      "id": "5051",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "sit & go-14",
+    "name": {
+      "en": "Sit & Go 14",
+      "zh-cn": "Sit & Go 14",
+      "th": "Sit & Go 14",
+      "vi": "Sit & Go 14"
+    },
+    "description": {
+      "en": "Advanced sit & go poker with tournaments and cash games",
+      "zh-cn": "高级Sit & Go扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Sit & Goขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Sit & Go nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "20.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5052.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5052_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/sit & go-14",
+      "demo": "https://wg.com/demo/sit & go-14"
+    },
+    "features": [
+      "Auto Play",
+      "Cash Out",
+      "Secure Gaming",
+      "Tournament Mode"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/sit & go-14",
+    "imageMetadata": {
+      "id": "5052",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "multi table-15",
+    "name": {
+      "en": "Multi Table 15",
+      "zh-cn": "Multi Table 15",
+      "th": "Multi Table 15",
+      "vi": "Multi Table 15"
+    },
+    "description": {
+      "en": "Advanced multi table poker with tournaments and cash games",
+      "zh-cn": "高级Multi Table扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Multi Tableขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Multi Table nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "17.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5053.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5053_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/multi table-15",
+      "demo": "https://wg.com/demo/multi table-15"
+    },
+    "features": [
+      "Tournament Mode",
+      "Mobile Optimized",
+      "Bonus Rounds",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/multi table-15",
+    "imageMetadata": {
+      "id": "5053",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "heads up-16",
+    "name": {
+      "en": "Heads Up 16",
+      "zh-cn": "Heads Up 16",
+      "th": "Heads Up 16",
+      "vi": "Heads Up 16"
+    },
+    "description": {
+      "en": "Advanced heads up poker with tournaments and cash games",
+      "zh-cn": "高级Heads Up扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Heads Upขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Heads Up nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "12.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5054.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5054_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/heads up-16",
+      "demo": "https://wg.com/demo/heads up-16"
+    },
+    "features": [
+      "Free Spins",
+      "Mobile Optimized",
+      "Multiplier",
+      "High Quality Graphics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/heads up-16",
+    "imageMetadata": {
+      "id": "5054",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "pot limit-17",
+    "name": {
+      "en": "Pot Limit 17",
+      "zh-cn": "Pot Limit 17",
+      "th": "Pot Limit 17",
+      "vi": "Pot Limit 17"
+    },
+    "description": {
+      "en": "Advanced pot limit poker with tournaments and cash games",
+      "zh-cn": "高级Pot Limit扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Pot Limitขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Pot Limit nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "11.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5055.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5055_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/pot limit-17",
+      "demo": "https://wg.com/demo/pot limit-17"
+    },
+    "features": [
+      "Live Dealers",
+      "Secure Gaming",
+      "Free Spins",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/pot limit-17",
+    "imageMetadata": {
+      "id": "5055",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "no limit-18",
+    "name": {
+      "en": "No Limit 18",
+      "zh-cn": "No Limit 18",
+      "th": "No Limit 18",
+      "vi": "No Limit 18"
+    },
+    "description": {
+      "en": "Advanced no limit poker with tournaments and cash games",
+      "zh-cn": "高级No Limit扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์No Limitขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker No Limit nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "8.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5056.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5056_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/no limit-18",
+      "demo": "https://wg.com/demo/no limit-18"
+    },
+    "features": [
+      "Multiplier",
+      "Real-time Chat",
+      "Tournament Mode",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/no limit-18",
+    "imageMetadata": {
+      "id": "5056",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "fixed limit-19",
+    "name": {
+      "en": "Fixed Limit 19",
+      "zh-cn": "Fixed Limit 19",
+      "th": "Fixed Limit 19",
+      "vi": "Fixed Limit 19"
+    },
+    "description": {
+      "en": "Advanced fixed limit poker with tournaments and cash games",
+      "zh-cn": "高级Fixed Limit扑克，包含锦标赛和现金游戏",
+      "th": "โป๊กเกอร์Fixed Limitขั้นสูงพร้อมทัวร์นาเมนต์และเกมเงินสด",
+      "vi": "Poker Fixed Limit nâng cao với giải đấu và trò chơi tiền mặt"
+    },
+    "category": "Poker",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5057.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5057_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/fixed limit-19",
+      "demo": "https://wg.com/demo/fixed limit-19"
+    },
+    "features": [
+      "Scatter Symbols",
+      "Tournament Mode",
+      "Wild Symbols",
+      "Mobile Optimized"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/fixed limit-19",
+    "imageMetadata": {
+      "id": "5057",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "football-1",
+    "name": {
+      "en": "Football Betting 1",
+      "zh-cn": "Football 投注 1",
+      "th": "เดิมพัน Football 1",
+      "vi": "Cá cược Football 1"
+    },
+    "description": {
+      "en": "Comprehensive football betting with live odds and statistics",
+      "zh-cn": "全面的Football投注，包含实时赔率和统计数据",
+      "th": "เดิมพันFootballที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Football toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "21.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5058.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5058_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/football-1",
+      "demo": "https://wg.com/demo/football-1"
+    },
+    "features": [
+      "Secure Gaming",
+      "Mobile Optimized",
+      "Multi-Player",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/football-1",
+    "imageMetadata": {
+      "id": "5058",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "basketball-2",
+    "name": {
+      "en": "Basketball Betting 2",
+      "zh-cn": "Basketball 投注 2",
+      "th": "เดิมพัน Basketball 2",
+      "vi": "Cá cược Basketball 2"
+    },
+    "description": {
+      "en": "Comprehensive basketball betting with live odds and statistics",
+      "zh-cn": "全面的Basketball投注，包含实时赔率和统计数据",
+      "th": "เดิมพันBasketballที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Basketball toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "22.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5059.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5059_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/basketball-2",
+      "demo": "https://wg.com/demo/basketball-2"
+    },
+    "features": [
+      "Scatter Symbols",
+      "Mobile Optimized",
+      "High Quality Graphics",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/basketball-2",
+    "imageMetadata": {
+      "id": "5059",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "baseball-3",
+    "name": {
+      "en": "Baseball Betting 3",
+      "zh-cn": "Baseball 投注 3",
+      "th": "เดิมพัน Baseball 3",
+      "vi": "Cá cược Baseball 3"
+    },
+    "description": {
+      "en": "Comprehensive baseball betting with live odds and statistics",
+      "zh-cn": "全面的Baseball投注，包含实时赔率和统计数据",
+      "th": "เดิมพันBaseballที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Baseball toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "14.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5060.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5060_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/baseball-3",
+      "demo": "https://wg.com/demo/baseball-3"
+    },
+    "features": [
+      "Multi-Player",
+      "Live Dealers",
+      "Mobile Optimized",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/baseball-3",
+    "imageMetadata": {
+      "id": "5060",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "soccer-4",
+    "name": {
+      "en": "Soccer Betting 4",
+      "zh-cn": "Soccer 投注 4",
+      "th": "เดิมพัน Soccer 4",
+      "vi": "Cá cược Soccer 4"
+    },
+    "description": {
+      "en": "Comprehensive soccer betting with live odds and statistics",
+      "zh-cn": "全面的Soccer投注，包含实时赔率和统计数据",
+      "th": "เดิมพันSoccerที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Soccer toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "21.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5061.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5061_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/soccer-4",
+      "demo": "https://wg.com/demo/soccer-4"
+    },
+    "features": [
+      "Real-time Chat",
+      "Free Spins",
+      "Multiplier",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/soccer-4",
+    "imageMetadata": {
+      "id": "5061",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "tennis-5",
+    "name": {
+      "en": "Tennis Betting 5",
+      "zh-cn": "Tennis 投注 5",
+      "th": "เดิมพัน Tennis 5",
+      "vi": "Cá cược Tennis 5"
+    },
+    "description": {
+      "en": "Comprehensive tennis betting with live odds and statistics",
+      "zh-cn": "全面的Tennis投注，包含实时赔率和统计数据",
+      "th": "เดิมพันTennisที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Tennis toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "25.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5062.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5062_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/tennis-5",
+      "demo": "https://wg.com/demo/tennis-5"
+    },
+    "features": [
+      "Multi-Player",
+      "Secure Gaming",
+      "Auto Play",
+      "Tournament Mode"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/tennis-5",
+    "imageMetadata": {
+      "id": "5062",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "golf-6",
+    "name": {
+      "en": "Golf Betting 6",
+      "zh-cn": "Golf 投注 6",
+      "th": "เดิมพัน Golf 6",
+      "vi": "Cá cược Golf 6"
+    },
+    "description": {
+      "en": "Comprehensive golf betting with live odds and statistics",
+      "zh-cn": "全面的Golf投注，包含实时赔率和统计数据",
+      "th": "เดิมพันGolfที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Golf toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "21.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5063.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5063_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/golf-6",
+      "demo": "https://wg.com/demo/golf-6"
+    },
+    "features": [
+      "Scatter Symbols",
+      "Mobile Optimized",
+      "Progressive Jackpot",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/golf-6",
+    "imageMetadata": {
+      "id": "5063",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "boxing-7",
+    "name": {
+      "en": "Boxing Betting 7",
+      "zh-cn": "Boxing 投注 7",
+      "th": "เดิมพัน Boxing 7",
+      "vi": "Cá cược Boxing 7"
+    },
+    "description": {
+      "en": "Comprehensive boxing betting with live odds and statistics",
+      "zh-cn": "全面的Boxing投注，包含实时赔率和统计数据",
+      "th": "เดิมพันBoxingที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Boxing toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "15.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5064.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5064_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/boxing-7",
+      "demo": "https://wg.com/demo/boxing-7"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Auto Play",
+      "Real-time Chat",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/boxing-7",
+    "imageMetadata": {
+      "id": "5064",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "mma-8",
+    "name": {
+      "en": "MMA Betting 8",
+      "zh-cn": "MMA 投注 8",
+      "th": "เดิมพัน MMA 8",
+      "vi": "Cá cược MMA 8"
+    },
+    "description": {
+      "en": "Comprehensive mma betting with live odds and statistics",
+      "zh-cn": "全面的MMA投注，包含实时赔率和统计数据",
+      "th": "เดิมพันMMAที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược MMA toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "18.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5065.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5065_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/mma-8",
+      "demo": "https://wg.com/demo/mma-8"
+    },
+    "features": [
+      "Wild Symbols",
+      "Tournament Mode",
+      "Mobile Optimized",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/mma-8",
+    "imageMetadata": {
+      "id": "5065",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "hockey-9",
+    "name": {
+      "en": "Hockey Betting 9",
+      "zh-cn": "Hockey 投注 9",
+      "th": "เดิมพัน Hockey 9",
+      "vi": "Cá cược Hockey 9"
+    },
+    "description": {
+      "en": "Comprehensive hockey betting with live odds and statistics",
+      "zh-cn": "全面的Hockey投注，包含实时赔率和统计数据",
+      "th": "เดิมพันHockeyที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Hockey toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "15.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5066.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5066_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/hockey-9",
+      "demo": "https://wg.com/demo/hockey-9"
+    },
+    "features": [
+      "Real-time Chat",
+      "Live Statistics",
+      "Mobile Optimized",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/hockey-9",
+    "imageMetadata": {
+      "id": "5066",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "cricket-10",
+    "name": {
+      "en": "Cricket Betting 10",
+      "zh-cn": "Cricket 投注 10",
+      "th": "เดิมพัน Cricket 10",
+      "vi": "Cá cược Cricket 10"
+    },
+    "description": {
+      "en": "Comprehensive cricket betting with live odds and statistics",
+      "zh-cn": "全面的Cricket投注，包含实时赔率和统计数据",
+      "th": "เดิมพันCricketที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Cricket toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "18.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5067.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5067_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/cricket-10",
+      "demo": "https://wg.com/demo/cricket-10"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Real-time Chat",
+      "Multiplier",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/cricket-10",
+    "imageMetadata": {
+      "id": "5067",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "rugby-11",
+    "name": {
+      "en": "Rugby Betting 11",
+      "zh-cn": "Rugby 投注 11",
+      "th": "เดิมพัน Rugby 11",
+      "vi": "Cá cược Rugby 11"
+    },
+    "description": {
+      "en": "Comprehensive rugby betting with live odds and statistics",
+      "zh-cn": "全面的Rugby投注，包含实时赔率和统计数据",
+      "th": "เดิมพันRugbyที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Rugby toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "12.9 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5068.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5068_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/rugby-11",
+      "demo": "https://wg.com/demo/rugby-11"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Mobile Optimized",
+      "Progressive Jackpot",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/rugby-11",
+    "imageMetadata": {
+      "id": "5068",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "volleyball-12",
+    "name": {
+      "en": "Volleyball Betting 12",
+      "zh-cn": "Volleyball 投注 12",
+      "th": "เดิมพัน Volleyball 12",
+      "vi": "Cá cược Volleyball 12"
+    },
+    "description": {
+      "en": "Comprehensive volleyball betting with live odds and statistics",
+      "zh-cn": "全面的Volleyball投注，包含实时赔率和统计数据",
+      "th": "เดิมพันVolleyballที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Volleyball toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "17.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5069.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5069_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/volleyball-12",
+      "demo": "https://wg.com/demo/volleyball-12"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Bonus Rounds",
+      "Multiplier",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/volleyball-12",
+    "imageMetadata": {
+      "id": "5069",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "badminton-13",
+    "name": {
+      "en": "Badminton Betting 13",
+      "zh-cn": "Badminton 投注 13",
+      "th": "เดิมพัน Badminton 13",
+      "vi": "Cá cược Badminton 13"
+    },
+    "description": {
+      "en": "Comprehensive badminton betting with live odds and statistics",
+      "zh-cn": "全面的Badminton投注，包含实时赔率和统计数据",
+      "th": "เดิมพันBadmintonที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Badminton toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "24.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5070.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5070_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/badminton-13",
+      "demo": "https://wg.com/demo/badminton-13"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Multi-Player",
+      "Mobile Optimized",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/badminton-13",
+    "imageMetadata": {
+      "id": "5070",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "table tennis-14",
+    "name": {
+      "en": "Table Tennis Betting 14",
+      "zh-cn": "Table Tennis 投注 14",
+      "th": "เดิมพัน Table Tennis 14",
+      "vi": "Cá cược Table Tennis 14"
+    },
+    "description": {
+      "en": "Comprehensive table tennis betting with live odds and statistics",
+      "zh-cn": "全面的Table Tennis投注，包含实时赔率和统计数据",
+      "th": "เดิมพันTable Tennisที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Table Tennis toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "9.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5071.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5071_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/table tennis-14",
+      "demo": "https://wg.com/demo/table tennis-14"
+    },
+    "features": [
+      "Wild Symbols",
+      "Mobile Optimized",
+      "Multi-Player",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/table tennis-14",
+    "imageMetadata": {
+      "id": "5071",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "swimming-15",
+    "name": {
+      "en": "Swimming Betting 15",
+      "zh-cn": "Swimming 投注 15",
+      "th": "เดิมพัน Swimming 15",
+      "vi": "Cá cược Swimming 15"
+    },
+    "description": {
+      "en": "Comprehensive swimming betting with live odds and statistics",
+      "zh-cn": "全面的Swimming投注，包含实时赔率和统计数据",
+      "th": "เดิมพันSwimmingที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Swimming toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "22.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5072.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5072_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/swimming-15",
+      "demo": "https://wg.com/demo/swimming-15"
+    },
+    "features": [
+      "Multiplier",
+      "Progressive Jackpot",
+      "Wild Symbols",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/swimming-15",
+    "imageMetadata": {
+      "id": "5072",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "cycling-16",
+    "name": {
+      "en": "Cycling Betting 16",
+      "zh-cn": "Cycling 投注 16",
+      "th": "เดิมพัน Cycling 16",
+      "vi": "Cá cược Cycling 16"
+    },
+    "description": {
+      "en": "Comprehensive cycling betting with live odds and statistics",
+      "zh-cn": "全面的Cycling投注，包含实时赔率和统计数据",
+      "th": "เดิมพันCyclingที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Cycling toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "18.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5073.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5073_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/cycling-16",
+      "demo": "https://wg.com/demo/cycling-16"
+    },
+    "features": [
+      "Tournament Mode",
+      "Wild Symbols",
+      "Cash Out",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/cycling-16",
+    "imageMetadata": {
+      "id": "5073",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "racing-17",
+    "name": {
+      "en": "Racing Betting 17",
+      "zh-cn": "Racing 投注 17",
+      "th": "เดิมพัน Racing 17",
+      "vi": "Cá cược Racing 17"
+    },
+    "description": {
+      "en": "Comprehensive racing betting with live odds and statistics",
+      "zh-cn": "全面的Racing投注，包含实时赔率和统计数据",
+      "th": "เดิมพันRacingที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Racing toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "23.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5074.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5074_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/racing-17",
+      "demo": "https://wg.com/demo/racing-17"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Bonus Rounds",
+      "Secure Gaming",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/racing-17",
+    "imageMetadata": {
+      "id": "5074",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "olympics-18",
+    "name": {
+      "en": "Olympics Betting 18",
+      "zh-cn": "Olympics 投注 18",
+      "th": "เดิมพัน Olympics 18",
+      "vi": "Cá cược Olympics 18"
+    },
+    "description": {
+      "en": "Comprehensive olympics betting with live odds and statistics",
+      "zh-cn": "全面的Olympics投注，包含实时赔率和统计数据",
+      "th": "เดิมพันOlympicsที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược Olympics toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "10.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5075.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5075_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/olympics-18",
+      "demo": "https://wg.com/demo/olympics-18"
+    },
+    "features": [
+      "Secure Gaming",
+      "Live Statistics",
+      "Cash Out",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/olympics-18",
+    "imageMetadata": {
+      "id": "5075",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "world cup-19",
+    "name": {
+      "en": "World Cup Betting 19",
+      "zh-cn": "World Cup 投注 19",
+      "th": "เดิมพัน World Cup 19",
+      "vi": "Cá cược World Cup 19"
+    },
+    "description": {
+      "en": "Comprehensive world cup betting with live odds and statistics",
+      "zh-cn": "全面的World Cup投注，包含实时赔率和统计数据",
+      "th": "เดิมพันWorld Cupที่ครอบคลุมพร้อมอัตราต่อรองสดและสถิติ",
+      "vi": "Cá cược World Cup toàn diện với tỷ lệ trực tiếp và thống kê"
+    },
+    "category": "Sports",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5076.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5076_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/world cup-19",
+      "demo": "https://wg.com/demo/world cup-19"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Live Statistics",
+      "Free Spins",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/world cup-19",
+    "imageMetadata": {
+      "id": "5076",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "powerball-1",
+    "name": {
+      "en": "Powerball 1",
+      "zh-cn": "Powerball 1",
+      "th": "Powerball 1",
+      "vi": "Powerball 1"
+    },
+    "description": {
+      "en": "Daily powerball lottery with instant results and big prizes",
+      "zh-cn": "每日Powerball彩票，即时开奖和巨额奖金",
+      "th": "หวยPowerballรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Powerball hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "16.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5077.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5077_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/powerball-1",
+      "demo": "https://wg.com/demo/powerball-1"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Cash Out",
+      "Multiplier",
+      "Multi-Player"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/powerball-1",
+    "imageMetadata": {
+      "id": "5077",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "mega millions-2",
+    "name": {
+      "en": "Mega Millions 2",
+      "zh-cn": "Mega Millions 2",
+      "th": "Mega Millions 2",
+      "vi": "Mega Millions 2"
+    },
+    "description": {
+      "en": "Daily mega millions lottery with instant results and big prizes",
+      "zh-cn": "每日Mega Millions彩票，即时开奖和巨额奖金",
+      "th": "หวยMega Millionsรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Mega Millions hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "24.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5078.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5078_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/mega millions-2",
+      "demo": "https://wg.com/demo/mega millions-2"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Secure Gaming",
+      "Wild Symbols",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/mega millions-2",
+    "imageMetadata": {
+      "id": "5078",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "euromillions-3",
+    "name": {
+      "en": "EuroMillions 3",
+      "zh-cn": "EuroMillions 3",
+      "th": "EuroMillions 3",
+      "vi": "EuroMillions 3"
+    },
+    "description": {
+      "en": "Daily euromillions lottery with instant results and big prizes",
+      "zh-cn": "每日EuroMillions彩票，即时开奖和巨额奖金",
+      "th": "หวยEuroMillionsรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số EuroMillions hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "18.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5079.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5079_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/euromillions-3",
+      "demo": "https://wg.com/demo/euromillions-3"
+    },
+    "features": [
+      "Cash Out",
+      "Multiplier",
+      "Progressive Jackpot",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/euromillions-3",
+    "imageMetadata": {
+      "id": "5079",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "lotto-4",
+    "name": {
+      "en": "Lotto 4",
+      "zh-cn": "Lotto 4",
+      "th": "Lotto 4",
+      "vi": "Lotto 4"
+    },
+    "description": {
+      "en": "Daily lotto lottery with instant results and big prizes",
+      "zh-cn": "每日Lotto彩票，即时开奖和巨额奖金",
+      "th": "หวยLottoรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Lotto hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "10.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5080.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5080_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/lotto-4",
+      "demo": "https://wg.com/demo/lotto-4"
+    },
+    "features": [
+      "Progressive Jackpot",
+      "Auto Play",
+      "Mobile Optimized",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/lotto-4",
+    "imageMetadata": {
+      "id": "5080",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "keno-5",
+    "name": {
+      "en": "Keno 5",
+      "zh-cn": "Keno 5",
+      "th": "Keno 5",
+      "vi": "Keno 5"
+    },
+    "description": {
+      "en": "Daily keno lottery with instant results and big prizes",
+      "zh-cn": "每日Keno彩票，即时开奖和巨额奖金",
+      "th": "หวยKenoรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Keno hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "9.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5081.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5081_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/keno-5",
+      "demo": "https://wg.com/demo/keno-5"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Cash Out",
+      "Live Statistics",
+      "Live Dealers"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/keno-5",
+    "imageMetadata": {
+      "id": "5081",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "bingo-6",
+    "name": {
+      "en": "Bingo 6",
+      "zh-cn": "Bingo 6",
+      "th": "Bingo 6",
+      "vi": "Bingo 6"
+    },
+    "description": {
+      "en": "Daily bingo lottery with instant results and big prizes",
+      "zh-cn": "每日Bingo彩票，即时开奖和巨额奖金",
+      "th": "หวยBingoรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Bingo hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "17.9 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5082.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5082_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/bingo-6",
+      "demo": "https://wg.com/demo/bingo-6"
+    },
+    "features": [
+      "Mobile Optimized",
+      "Live Statistics",
+      "Secure Gaming",
+      "Cash Out"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/bingo-6",
+    "imageMetadata": {
+      "id": "5082",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "scratch-7",
+    "name": {
+      "en": "Scratch 7",
+      "zh-cn": "Scratch 7",
+      "th": "Scratch 7",
+      "vi": "Scratch 7"
+    },
+    "description": {
+      "en": "Daily scratch lottery with instant results and big prizes",
+      "zh-cn": "每日Scratch彩票，即时开奖和巨额奖金",
+      "th": "หวยScratchรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Scratch hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "10.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5083.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5083_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/scratch-7",
+      "demo": "https://wg.com/demo/scratch-7"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Real-time Chat",
+      "Wild Symbols",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/scratch-7",
+    "imageMetadata": {
+      "id": "5083",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "pick 3-8",
+    "name": {
+      "en": "Pick 3 8",
+      "zh-cn": "Pick 3 8",
+      "th": "Pick 3 8",
+      "vi": "Pick 3 8"
+    },
+    "description": {
+      "en": "Daily pick 3 lottery with instant results and big prizes",
+      "zh-cn": "每日Pick 3彩票，即时开奖和巨额奖金",
+      "th": "หวยPick 3รายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Pick 3 hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "17.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5084.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5084_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/pick 3-8",
+      "demo": "https://wg.com/demo/pick 3-8"
+    },
+    "features": [
+      "Live Statistics",
+      "Tournament Mode",
+      "Mobile Optimized",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/pick 3-8",
+    "imageMetadata": {
+      "id": "5084",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "pick 4-9",
+    "name": {
+      "en": "Pick 4 9",
+      "zh-cn": "Pick 4 9",
+      "th": "Pick 4 9",
+      "vi": "Pick 4 9"
+    },
+    "description": {
+      "en": "Daily pick 4 lottery with instant results and big prizes",
+      "zh-cn": "每日Pick 4彩票，即时开奖和巨额奖金",
+      "th": "หวยPick 4รายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Pick 4 hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "19.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.5,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5085.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5085_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/pick 4-9",
+      "demo": "https://wg.com/demo/pick 4-9"
+    },
+    "features": [
+      "Multi-Player",
+      "Tournament Mode",
+      "High Quality Graphics",
+      "Live Statistics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/pick 4-9",
+    "imageMetadata": {
+      "id": "5085",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "daily-10",
+    "name": {
+      "en": "Daily 10",
+      "zh-cn": "Daily 10",
+      "th": "Daily 10",
+      "vi": "Daily 10"
+    },
+    "description": {
+      "en": "Daily daily lottery with instant results and big prizes",
+      "zh-cn": "每日Daily彩票，即时开奖和巨额奖金",
+      "th": "หวยDailyรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Daily hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "13.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.9,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5086.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5086_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/daily-10",
+      "demo": "https://wg.com/demo/daily-10"
+    },
+    "features": [
+      "Cash Out",
+      "Auto Play",
+      "Progressive Jackpot",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/daily-10",
+    "imageMetadata": {
+      "id": "5086",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "weekly-11",
+    "name": {
+      "en": "Weekly 11",
+      "zh-cn": "Weekly 11",
+      "th": "Weekly 11",
+      "vi": "Weekly 11"
+    },
+    "description": {
+      "en": "Daily weekly lottery with instant results and big prizes",
+      "zh-cn": "每日Weekly彩票，即时开奖和巨额奖金",
+      "th": "หวยWeeklyรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Weekly hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "23.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5087.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5087_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/weekly-11",
+      "demo": "https://wg.com/demo/weekly-11"
+    },
+    "features": [
+      "Live Statistics",
+      "Wild Symbols",
+      "Free Spins",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/weekly-11",
+    "imageMetadata": {
+      "id": "5087",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "monthly-12",
+    "name": {
+      "en": "Monthly 12",
+      "zh-cn": "Monthly 12",
+      "th": "Monthly 12",
+      "vi": "Monthly 12"
+    },
+    "description": {
+      "en": "Daily monthly lottery with instant results and big prizes",
+      "zh-cn": "每日Monthly彩票，即时开奖和巨额奖金",
+      "th": "หวยMonthlyรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Monthly hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "21.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5088.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5088_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/monthly-12",
+      "demo": "https://wg.com/demo/monthly-12"
+    },
+    "features": [
+      "Multi-Player",
+      "Scatter Symbols",
+      "Secure Gaming",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/monthly-12",
+    "imageMetadata": {
+      "id": "5088",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "instant-13",
+    "name": {
+      "en": "Instant 13",
+      "zh-cn": "Instant 13",
+      "th": "Instant 13",
+      "vi": "Instant 13"
+    },
+    "description": {
+      "en": "Daily instant lottery with instant results and big prizes",
+      "zh-cn": "每日Instant彩票，即时开奖和巨额奖金",
+      "th": "หวยInstantรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Instant hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "21.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5089.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5089_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/instant-13",
+      "demo": "https://wg.com/demo/instant-13"
+    },
+    "features": [
+      "Secure Gaming",
+      "Free Spins",
+      "Progressive Jackpot",
+      "Real-time Chat"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/instant-13",
+    "imageMetadata": {
+      "id": "5089",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "progressive-14",
+    "name": {
+      "en": "Progressive 14",
+      "zh-cn": "Progressive 14",
+      "th": "Progressive 14",
+      "vi": "Progressive 14"
+    },
+    "description": {
+      "en": "Daily progressive lottery with instant results and big prizes",
+      "zh-cn": "每日Progressive彩票，即时开奖和巨额奖金",
+      "th": "หวยProgressiveรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Progressive hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5090.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5090_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/progressive-14",
+      "demo": "https://wg.com/demo/progressive-14"
+    },
+    "features": [
+      "Scatter Symbols",
+      "Mobile Optimized",
+      "Multi-Player",
+      "Cash Out"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/progressive-14",
+    "imageMetadata": {
+      "id": "5090",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "multi draw-15",
+    "name": {
+      "en": "Multi Draw 15",
+      "zh-cn": "Multi Draw 15",
+      "th": "Multi Draw 15",
+      "vi": "Multi Draw 15"
+    },
+    "description": {
+      "en": "Daily multi draw lottery with instant results and big prizes",
+      "zh-cn": "每日Multi Draw彩票，即时开奖和巨额奖金",
+      "th": "หวยMulti Drawรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Multi Draw hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "8.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5091.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5091_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/multi draw-15",
+      "demo": "https://wg.com/demo/multi draw-15"
+    },
+    "features": [
+      "Live Statistics",
+      "Tournament Mode",
+      "Multiplier",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/multi draw-15",
+    "imageMetadata": {
+      "id": "5091",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "system-16",
+    "name": {
+      "en": "System 16",
+      "zh-cn": "System 16",
+      "th": "System 16",
+      "vi": "System 16"
+    },
+    "description": {
+      "en": "Daily system lottery with instant results and big prizes",
+      "zh-cn": "每日System彩票，即时开奖和巨额奖金",
+      "th": "หวยSystemรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số System hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "24.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5092.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5092_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/system-16",
+      "demo": "https://wg.com/demo/system-16"
+    },
+    "features": [
+      "Secure Gaming",
+      "Bonus Rounds",
+      "Multi-Player",
+      "Multiplier"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/system-16",
+    "imageMetadata": {
+      "id": "5092",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "wheel-17",
+    "name": {
+      "en": "Wheel 17",
+      "zh-cn": "Wheel 17",
+      "th": "Wheel 17",
+      "vi": "Wheel 17"
+    },
+    "description": {
+      "en": "Daily wheel lottery with instant results and big prizes",
+      "zh-cn": "每日Wheel彩票，即时开奖和巨额奖金",
+      "th": "หวยWheelรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Wheel hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "23.6 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5093.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5093_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/wheel-17",
+      "demo": "https://wg.com/demo/wheel-17"
+    },
+    "features": [
+      "Multiplier",
+      "Mobile Optimized",
+      "Tournament Mode",
+      "Cash Out"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/wheel-17",
+    "imageMetadata": {
+      "id": "5093",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "combo-18",
+    "name": {
+      "en": "Combo 18",
+      "zh-cn": "Combo 18",
+      "th": "Combo 18",
+      "vi": "Combo 18"
+    },
+    "description": {
+      "en": "Daily combo lottery with instant results and big prizes",
+      "zh-cn": "每日Combo彩票，即时开奖和巨额奖金",
+      "th": "หวยComboรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Combo hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "14.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5094.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5094_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/combo-18",
+      "demo": "https://wg.com/demo/combo-18"
+    },
+    "features": [
+      "Live Dealers",
+      "Tournament Mode",
+      "Multiplier",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/combo-18",
+    "imageMetadata": {
+      "id": "5094",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "quick pick-19",
+    "name": {
+      "en": "Quick Pick 19",
+      "zh-cn": "Quick Pick 19",
+      "th": "Quick Pick 19",
+      "vi": "Quick Pick 19"
+    },
+    "description": {
+      "en": "Daily quick pick lottery with instant results and big prizes",
+      "zh-cn": "每日Quick Pick彩票，即时开奖和巨额奖金",
+      "th": "หวยQuick Pickรายวันพร้อมผลทันทีและรางวัลใหญ่",
+      "vi": "Xổ số Quick Pick hàng ngày với kết quả tức thì và giải thưởng lớn"
+    },
+    "category": "Lottery",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "25.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5095.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5095_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/quick pick-19",
+      "demo": "https://wg.com/demo/quick pick-19"
+    },
+    "features": [
+      "Auto Play",
+      "High Quality Graphics",
+      "Live Statistics",
+      "Wild Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/quick pick-19",
+    "imageMetadata": {
+      "id": "5095",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live casino-1",
+    "name": {
+      "en": "Live Casino 1",
+      "zh-cn": "Live Casino 1",
+      "th": "Live Casino 1",
+      "vi": "Live Casino 1"
+    },
+    "description": {
+      "en": "Interactive live casino with HD streaming and real-time chat",
+      "zh-cn": "互动Live Casino，高清直播和实时聊天",
+      "th": "Live Casinoแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Casino tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "11.9 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5096.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5096_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live casino-1",
+      "demo": "https://wg.com/demo/live casino-1"
+    },
+    "features": [
+      "Live Dealers",
+      "Mobile Optimized",
+      "Bonus Rounds",
+      "Multi-Player"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live casino-1",
+    "imageMetadata": {
+      "id": "5096",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live blackjack-2",
+    "name": {
+      "en": "Live Blackjack 2",
+      "zh-cn": "Live Blackjack 2",
+      "th": "Live Blackjack 2",
+      "vi": "Live Blackjack 2"
+    },
+    "description": {
+      "en": "Interactive live blackjack with HD streaming and real-time chat",
+      "zh-cn": "互动Live Blackjack，高清直播和实时聊天",
+      "th": "Live Blackjackแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Blackjack tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "25.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5097.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5097_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live blackjack-2",
+      "demo": "https://wg.com/demo/live blackjack-2"
+    },
+    "features": [
+      "Secure Gaming",
+      "Cash Out",
+      "Bonus Rounds",
+      "High Quality Graphics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live blackjack-2",
+    "imageMetadata": {
+      "id": "5097",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live roulette-3",
+    "name": {
+      "en": "Live Roulette 3",
+      "zh-cn": "Live Roulette 3",
+      "th": "Live Roulette 3",
+      "vi": "Live Roulette 3"
+    },
+    "description": {
+      "en": "Interactive live roulette with HD streaming and real-time chat",
+      "zh-cn": "互动Live Roulette，高清直播和实时聊天",
+      "th": "Live Rouletteแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Roulette tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "17.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5098.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5098_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live roulette-3",
+      "demo": "https://wg.com/demo/live roulette-3"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Secure Gaming",
+      "Mobile Optimized",
+      "Scatter Symbols"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live roulette-3",
+    "imageMetadata": {
+      "id": "5098",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live baccarat-4",
+    "name": {
+      "en": "Live Baccarat 4",
+      "zh-cn": "Live Baccarat 4",
+      "th": "Live Baccarat 4",
+      "vi": "Live Baccarat 4"
+    },
+    "description": {
+      "en": "Interactive live baccarat with HD streaming and real-time chat",
+      "zh-cn": "互动Live Baccarat，高清直播和实时聊天",
+      "th": "Live Baccaratแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Baccarat tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "16.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.0,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5099.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5099_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live baccarat-4",
+      "demo": "https://wg.com/demo/live baccarat-4"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Cash Out",
+      "Tournament Mode",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live baccarat-4",
+    "imageMetadata": {
+      "id": "5099",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live poker-5",
+    "name": {
+      "en": "Live Poker 5",
+      "zh-cn": "Live Poker 5",
+      "th": "Live Poker 5",
+      "vi": "Live Poker 5"
+    },
+    "description": {
+      "en": "Interactive live poker with HD streaming and real-time chat",
+      "zh-cn": "互动Live Poker，高清直播和实时聊天",
+      "th": "Live Pokerแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Poker tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "17.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5100.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5100_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live poker-5",
+      "demo": "https://wg.com/demo/live poker-5"
+    },
+    "features": [
+      "Multi-Player",
+      "Progressive Jackpot",
+      "Live Statistics",
+      "High Quality Graphics"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live poker-5",
+    "imageMetadata": {
+      "id": "5100",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live game show-6",
+    "name": {
+      "en": "Live Game Show 6",
+      "zh-cn": "Live Game Show 6",
+      "th": "Live Game Show 6",
+      "vi": "Live Game Show 6"
+    },
+    "description": {
+      "en": "Interactive live game show with HD streaming and real-time chat",
+      "zh-cn": "互动Live Game Show，高清直播和实时聊天",
+      "th": "Live Game Showแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Game Show tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "9.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5101.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5101_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live game show-6",
+      "demo": "https://wg.com/demo/live game show-6"
+    },
+    "features": [
+      "Cash Out",
+      "High Quality Graphics",
+      "Free Spins",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live game show-6",
+    "imageMetadata": {
+      "id": "5101",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live dealers-7",
+    "name": {
+      "en": "Live Dealers 7",
+      "zh-cn": "Live Dealers 7",
+      "th": "Live Dealers 7",
+      "vi": "Live Dealers 7"
+    },
+    "description": {
+      "en": "Interactive live dealers with HD streaming and real-time chat",
+      "zh-cn": "互动Live Dealers，高清直播和实时聊天",
+      "th": "Live Dealersแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Dealers tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "18.9 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5102.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5102_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live dealers-7",
+      "demo": "https://wg.com/demo/live dealers-7"
+    },
+    "features": [
+      "Bonus Rounds",
+      "Live Statistics",
+      "Real-time Chat",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live dealers-7",
+    "imageMetadata": {
+      "id": "5102",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live studio-8",
+    "name": {
+      "en": "Live Studio 8",
+      "zh-cn": "Live Studio 8",
+      "th": "Live Studio 8",
+      "vi": "Live Studio 8"
+    },
+    "description": {
+      "en": "Interactive live studio with HD streaming and real-time chat",
+      "zh-cn": "互动Live Studio，高清直播和实时聊天",
+      "th": "Live Studioแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Studio tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "19.1 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5103.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5103_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live studio-8",
+      "demo": "https://wg.com/demo/live studio-8"
+    },
+    "features": [
+      "Wild Symbols",
+      "Real-time Chat",
+      "Progressive Jackpot",
+      "Auto Play"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live studio-8",
+    "imageMetadata": {
+      "id": "5103",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live stream-9",
+    "name": {
+      "en": "Live Stream 9",
+      "zh-cn": "Live Stream 9",
+      "th": "Live Stream 9",
+      "vi": "Live Stream 9"
+    },
+    "description": {
+      "en": "Interactive live stream with HD streaming and real-time chat",
+      "zh-cn": "互动Live Stream，高清直播和实时聊天",
+      "th": "Live Streamแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Stream tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "15.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5104.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5104_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live stream-9",
+      "demo": "https://wg.com/demo/live stream-9"
+    },
+    "features": [
+      "Free Spins",
+      "Multiplier",
+      "Secure Gaming",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live stream-9",
+    "imageMetadata": {
+      "id": "5104",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live chat-10",
+    "name": {
+      "en": "Live Chat 10",
+      "zh-cn": "Live Chat 10",
+      "th": "Live Chat 10",
+      "vi": "Live Chat 10"
+    },
+    "description": {
+      "en": "Interactive live chat with HD streaming and real-time chat",
+      "zh-cn": "互动Live Chat，高清直播和实时聊天",
+      "th": "Live Chatแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Chat tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "22.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5105.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5105_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live chat-10",
+      "demo": "https://wg.com/demo/live chat-10"
+    },
+    "features": [
+      "Live Dealers",
+      "High Quality Graphics",
+      "Real-time Chat",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live chat-10",
+    "imageMetadata": {
+      "id": "5105",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live betting-11",
+    "name": {
+      "en": "Live Betting 11",
+      "zh-cn": "Live Betting 11",
+      "th": "Live Betting 11",
+      "vi": "Live Betting 11"
+    },
+    "description": {
+      "en": "Interactive live betting with HD streaming and real-time chat",
+      "zh-cn": "互动Live Betting，高清直播和实时聊天",
+      "th": "Live Bettingแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Betting tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "13.7 MB",
+    "provider": "WG Gaming",
+    "rating": 4.3,
+    "players": "50K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5106.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5106_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live betting-11",
+      "demo": "https://wg.com/demo/live betting-11"
+    },
+    "features": [
+      "Multiplier",
+      "Auto Play",
+      "Secure Gaming",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live betting-11",
+    "imageMetadata": {
+      "id": "5106",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live statistics-12",
+    "name": {
+      "en": "Live Statistics 12",
+      "zh-cn": "Live Statistics 12",
+      "th": "Live Statistics 12",
+      "vi": "Live Statistics 12"
+    },
+    "description": {
+      "en": "Interactive live statistics with HD streaming and real-time chat",
+      "zh-cn": "互动Live Statistics，高清直播和实时聊天",
+      "th": "Live Statisticsแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Statistics tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "16.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5107.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5107_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live statistics-12",
+      "demo": "https://wg.com/demo/live statistics-12"
+    },
+    "features": [
+      "Free Spins",
+      "Live Statistics",
+      "Multiplier",
+      "Progressive Jackpot"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live statistics-12",
+    "imageMetadata": {
+      "id": "5107",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live history-13",
+    "name": {
+      "en": "Live History 13",
+      "zh-cn": "Live History 13",
+      "th": "Live History 13",
+      "vi": "Live History 13"
+    },
+    "description": {
+      "en": "Interactive live history with HD streaming and real-time chat",
+      "zh-cn": "互动Live History，高清直播和实时聊天",
+      "th": "Live Historyแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live History tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "10.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "25K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5108.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5108_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live history-13",
+      "demo": "https://wg.com/demo/live history-13"
+    },
+    "features": [
+      "Tournament Mode",
+      "High Quality Graphics",
+      "Bonus Rounds",
+      "Mobile Optimized"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live history-13",
+    "imageMetadata": {
+      "id": "5108",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live analysis-14",
+    "name": {
+      "en": "Live Analysis 14",
+      "zh-cn": "Live Analysis 14",
+      "th": "Live Analysis 14",
+      "vi": "Live Analysis 14"
+    },
+    "description": {
+      "en": "Interactive live analysis with HD streaming and real-time chat",
+      "zh-cn": "互动Live Analysis，高清直播和实时聊天",
+      "th": "Live Analysisแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Analysis tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "20.2 MB",
+    "provider": "WG Gaming",
+    "rating": 4.6,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5109.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5109_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live analysis-14",
+      "demo": "https://wg.com/demo/live analysis-14"
+    },
+    "features": [
+      "Auto Play",
+      "Scatter Symbols",
+      "Multiplier",
+      "Free Spins"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live analysis-14",
+    "imageMetadata": {
+      "id": "5109",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live tips-15",
+    "name": {
+      "en": "Live Tips 15",
+      "zh-cn": "Live Tips 15",
+      "th": "Live Tips 15",
+      "vi": "Live Tips 15"
+    },
+    "description": {
+      "en": "Interactive live tips with HD streaming and real-time chat",
+      "zh-cn": "互动Live Tips，高清直播和实时聊天",
+      "th": "Live Tipsแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Tips tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "17.3 MB",
+    "provider": "WG Gaming",
+    "rating": 4.7,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5110.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5110_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live tips-15",
+      "demo": "https://wg.com/demo/live tips-15"
+    },
+    "features": [
+      "Free Spins",
+      "Auto Play",
+      "Mobile Optimized",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live tips-15",
+    "imageMetadata": {
+      "id": "5110",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live results-16",
+    "name": {
+      "en": "Live Results 16",
+      "zh-cn": "Live Results 16",
+      "th": "Live Results 16",
+      "vi": "Live Results 16"
+    },
+    "description": {
+      "en": "Interactive live results with HD streaming and real-time chat",
+      "zh-cn": "互动Live Results，高清直播和实时聊天",
+      "th": "Live Resultsแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Results tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Mobile",
+      "iOS",
+      "Android"
+    ],
+    "size": "16.0 MB",
+    "provider": "WG Gaming",
+    "rating": 4.8,
+    "players": "10K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5111.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5111_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live results-16",
+      "demo": "https://wg.com/demo/live results-16"
+    },
+    "features": [
+      "High Quality Graphics",
+      "Mobile Optimized",
+      "Tournament Mode",
+      "Bonus Rounds"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live results-16",
+    "imageMetadata": {
+      "id": "5111",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live updates-17",
+    "name": {
+      "en": "Live Updates 17",
+      "zh-cn": "Live Updates 17",
+      "th": "Live Updates 17",
+      "vi": "Live Updates 17"
+    },
+    "description": {
+      "en": "Interactive live updates with HD streaming and real-time chat",
+      "zh-cn": "互动Live Updates，高清直播和实时聊天",
+      "th": "Live Updatesแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Updates tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile",
+      "Desktop"
+    ],
+    "size": "19.4 MB",
+    "provider": "WG Gaming",
+    "rating": 4.1,
+    "players": "100K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5112.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5112_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live updates-17",
+      "demo": "https://wg.com/demo/live updates-17"
+    },
+    "features": [
+      "Live Dealers",
+      "Mobile Optimized",
+      "Bonus Rounds",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live updates-17",
+    "imageMetadata": {
+      "id": "5112",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live commentary-18",
+    "name": {
+      "en": "Live Commentary 18",
+      "zh-cn": "Live Commentary 18",
+      "th": "Live Commentary 18",
+      "vi": "Live Commentary 18"
+    },
+    "description": {
+      "en": "Interactive live commentary with HD streaming and real-time chat",
+      "zh-cn": "互动Live Commentary，高清直播和实时聊天",
+      "th": "Live Commentaryแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Commentary tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "22.5 MB",
+    "provider": "WG Gaming",
+    "rating": 4.4,
+    "players": "200K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5113.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5113_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live commentary-18",
+      "demo": "https://wg.com/demo/live commentary-18"
+    },
+    "features": [
+      "Multi-Player",
+      "Wild Symbols",
+      "Free Spins",
+      "Mobile Optimized"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live commentary-18",
+    "imageMetadata": {
+      "id": "5113",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  },
+  {
+    "id": "live interaction-19",
+    "name": {
+      "en": "Live Interaction 19",
+      "zh-cn": "Live Interaction 19",
+      "th": "Live Interaction 19",
+      "vi": "Live Interaction 19"
+    },
+    "description": {
+      "en": "Interactive live interaction with HD streaming and real-time chat",
+      "zh-cn": "互动Live Interaction，高清直播和实时聊天",
+      "th": "Live Interactionแบบโต้ตอบพร้อมสตรีมมิ่ง HD และแชทแบบเรียลไทม์",
+      "vi": "Live Interaction tương tác với phát trực tiếp HD và trò chuyện thời gian thực"
+    },
+    "category": "Live Games",
+    "platform": [
+      "Web",
+      "Mobile"
+    ],
+    "size": "11.8 MB",
+    "provider": "WG Gaming",
+    "rating": 4.2,
+    "players": "500K+",
+    "status": "Live",
+    "images": {
+      "main": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5114.webp",
+      "icon": "https://wg.com/oss-proxy/official-website/apigame/zh/img/5114_icon.webp",
+      "local_main": "/assets/images/games/1001.webp",
+      "local_icon": "/assets/images/games/1001.webp"
+    },
+    "links": {
+      "main": "https://wg.com/games/live interaction-19",
+      "demo": "https://wg.com/demo/live interaction-19"
+    },
+    "features": [
+      "Multi-Player",
+      "Free Spins",
+      "Wild Symbols",
+      "Secure Gaming"
+    ],
+    "language": "multilingual",
+    "launchUrl": "https://wg.com/games/live interaction-19",
+    "imageMetadata": {
+      "id": "5114",
+      "language": "zh",
+      "source": "wg.com",
+      "format": "webp"
+    }
+  }
+]
